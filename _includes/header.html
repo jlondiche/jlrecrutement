@@ -1,0 +1,31 @@
+<header class="header" role="banner">
+    <div class="container-fluid">
+        {% if page.url == "/index.html" %}
+        <h1 class="header-logo">
+            <a href="{{ site.baseurl }}/"><span>{{ site.title }}</span></a>
+        </h1>
+        {% else %}
+        <strong class="header-logo">
+            <a href="{{ site.baseurl }}/"><span>{{ site.title }}</span></a>
+        </strong>
+        {% endif %}
+        <nav id="main-navigation" class="header-navigation collapse">
+            <ul>
+                {% for p in site.pages %}
+                    {% assign current = nil %}
+                    {% if p.url == page.url %}
+                        {% assign current = 'current' %}
+                    {% endif %}
+                    {% if p.title %}
+                        <li>
+                            <a href="{{ p.url | prepend: site.baseurl }}" class="header-navigation__link {{ current }}">{{ p.title }}</a>
+                        </li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </nav>
+        <button class="header-navigation-toggle" type="button" data-toggle="collapse" data-target="#main-navigation">
+            <span class="header-navigation-toggle__label">Menu</span>
+        </button>
+    </div>
+</header>

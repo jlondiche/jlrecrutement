@@ -1,0 +1,67 @@
+---
+layout: default
+---
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+            <div class="technology">
+                <ul>
+                    <li><i class="technology__icon java"></i></li>
+                    <li><i class="technology__icon python"></i></li>
+                    <li><i class="technology__icon php"></i></li>
+                    <li><i class="technology__icon ruby"></i></li>
+                    <li><i class="technology__icon javascript"></i></li>
+                </ul>
+            </div>
+
+            <div class="introduction">
+                <div class="introduction-block">
+                    <h2 class="introduction-block__title">Vous recherchez la perle rare ?</h2>
+                    <p>Spécialisée dans le recrutement IT et très active dans l'écosystème PHP, contactez-moi pour accéder à mon réseau de développeurs qualifiés, compétents et impliqués.</p>
+                </div>
+
+                <div class="introduction-block">
+                    <h2 class="introduction-block__title">Vous recherchez votre job idéal ?</h2>
+                    <p>Développeurs, gagnez du temps dans vos recherches en comparant les offres d'emploi attractives en CDI à Paris et en IDF.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="contact-link">
+        <a href="mailto:{{ site.email }}" class="btn btn-primary btn-lg">Contactez-moi</a>
+    </div>
+</div>
+
+
+<div class="testimonials">
+    <div class="container">
+        <h2 class="testimonials__title">Témoignages</h2>
+        <div id="testimonials" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner" role="listbox">
+                {% for testimonial in site.testimonials %}
+                    <div class="item{% if forloop.first %} active{% endif %}">
+                        <div class="testimonials__content">
+                            <blockquote class="testimonials__txt">
+                                {{ testimonial.content }}
+                            </blockquote>
+                            <div class="testimonials__source">
+                                <span>{{ testimonial.name }}</span>
+                                <em>{{ testimonial.company }}</em>
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+
+            <ol class="carousel-indicators">
+                {% assign count = '-1' %}
+                {% for testimonial in site.testimonials %}
+                    {% capture count %}{{ count | plus: '1' }}{% endcapture %}
+                    <li data-target="#testimonials" data-slide-to="{{ count }}" class="{% if forloop.first %}active{% endif %}"></li>
+                {% endfor %}
+            </ol>
+        </div>
+    </div>
+</div>

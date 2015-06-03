@@ -1,0 +1,36 @@
+//
+// Pages
+// --------------------------------------------------------------------------
+
+
+// Heading
+// --------------------------------------------------------------------------
+
+.page-heading {
+    margin: 0 0 30px;
+    text-align: center;
+}
+
+.page-heading__title {
+    margin: 0 0 20px;
+    font-size: 30px;
+}
+
+.page-heading__introduction {
+    color: $gray;
+}
+
+
+// Media queries
+// --------------------------------------------------------------------------
+
+@media (min-width: $screen-sm-min) {
+    .page-heading {
+        margin: 0 0 40px;
+    }
+
+    .page-heading__title {
+        margin: 10px 0 30px;
+        font-size: 36px;
+    }
+}

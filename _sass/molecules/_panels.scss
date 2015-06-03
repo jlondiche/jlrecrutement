@@ -1,0 +1,216 @@
+//
+// Panels
+// --------------------------------------------------------------------------
+
+
+// Variables
+// --------------------------------------------------------------------------
+
+$panel-bg:                    #fff !default;
+$panel-body-padding:          15px !default;
+$panel-heading-padding:       10px 30px 10px 15px !default;
+$panel-footer-padding:        $panel-heading-padding !default;
+
+$panel-inner-border:          #ddd !default;
+$panel-footer-bg:             #fff !default;
+
+$panel-default-text:          $gray-dark !default;
+$panel-default-border:        #ddd !default;
+$panel-default-heading-bg:    #f5f5f5 !default;
+
+$panel-primary-text:          $color-primary !default;
+$panel-primary-border:        $color-secondary !default;
+$panel-primary-heading-bg:    #fff !default;
+
+$panel-success-text:          $state-success-text !default;
+$panel-success-border:        $state-success-border !default;
+$panel-success-heading-bg:    $state-success-bg !default;
+
+$panel-info-text:             $state-info-text !default;
+$panel-info-border:           $state-info-border !default;
+$panel-info-heading-bg:       $state-info-bg !default;
+
+$panel-warning-text:          $state-warning-text !default;
+$panel-warning-border:        $state-warning-border !default;
+$panel-warning-heading-bg:    $state-warning-bg !default;
+
+$panel-danger-text:           $state-danger-text !default;
+$panel-danger-border:         $state-danger-border !default;
+$panel-danger-heading-bg:     $state-danger-bg !default;
+
+
+// Mixins
+// --------------------------------------------------------------------------
+
+@mixin panel-variant($border, $heading-text-color, $heading-bg-color, $heading-border) {
+    border-color: $border;
+
+    & > .panel-heading {
+        a {
+            color: $heading-text-color;
+            background-color: $heading-bg-color;
+            border-color: $heading-border;
+
+            &:before,
+            &:after {
+                background-color: $heading-text-color;
+            }
+        }
+
+        + .panel-collapse > .panel-body {
+            border-top-color: $border;
+        }
+    }
+
+    & > .panel-footer {
+        + .panel-collapse > .panel-body {
+            border-bottom-color: $border;
+        }
+    }
+}
+
+
+// Base class
+// --------------------------------------------------------------------------
+
+.panel {
+    margin-bottom: $line-height-computed;
+    background-color: $panel-bg;
+    border: 2px solid transparent;
+}
+
+// Panel contents
+.panel-body {
+    padding: $panel-body-padding;
+    @include clearfix;
+}
+
+// Optional heading
+.panel-heading {
+    position: relative;
+    border-bottom: 1px solid transparent;
+
+    a {
+        display: block;
+        padding: $panel-heading-padding;
+
+        &:hover,
+        &:focus {
+            text-decoration: none;
+        }
+
+        &:before,
+        &:after {
+            content: "";
+            position: absolute;
+            top: 50%;
+            right: 10px;
+            width: 12px;
+            height: 2px;
+            margin: -2px 0 0;
+            background-color: $panel-default-text;
+            @include transition(transform .1s linear);
+        }
+
+        &:after {
+            width: 2px;
+            height: 12px;
+            margin: -7px 5px 0 0;
+            @include rotate(90deg);
+        }
+
+        &.collapsed {
+            &:after {
+                @include rotate(0deg);
+            }
+        }
+    }
+}
+
+// Within heading, strip any `h*` tag of its default margins for spacing.
+.panel-title {
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: ceil(($font-size-base * 1.125));
+    font-weight: bold;
+    color: inherit;
+
+    > a,
+    > small,
+    > .small,
+    > small > a,
+    > .small > a {
+        color: inherit;
+    }
+}
+
+// Optional footer (stays gray in every modifier class)
+.panel-footer {
+    padding: $panel-footer-padding;
+    background-color: $panel-footer-bg;
+    border-top: 1px solid $panel-inner-border;
+}
+
+
+// Collapsable panels (aka, accordion)
+//
+// Wrap a series of panels in `.panel-group` to turn them into an accordion with
+// the help of our collapse JavaScript plugin.
+// --------------------------------------------------------------------------
+
+.panel-group {
+    margin-bottom: $line-height-computed;
+
+    // Tighten up margin so it's only between panels
+    .panel {
+        margin-bottom: 0;
+
+        + .panel {
+            margin-top: 5px;
+        }
+    }
+
+    .panel-heading {
+        border-bottom: 0;
+
+        + .panel-collapse > .panel-body {
+            border-top: 1px solid $panel-inner-border;
+        }
+    }
+
+    .panel-footer {
+        border-top: 0;
+        + .panel-collapse .panel-body {
+            border-bottom: 1px solid $panel-inner-border;
+        }
+    }
+}
+
+
+// Contextual variations
+// --------------------------------------------------------------------------
+
+.panel-default {
+    @include panel-variant($panel-default-border, $panel-default-text, $panel-default-heading-bg, $panel-default-border);
+}
+
+.panel-primary {
+    @include panel-variant($panel-primary-border, $panel-primary-text, $panel-primary-heading-bg, $panel-primary-border);
+}
+
+.panel-success {
+    @include panel-variant($panel-success-border, $panel-success-text, $panel-success-heading-bg, $panel-success-border);
+}
+
+.panel-info {
+    @include panel-variant($panel-info-border, $panel-info-text, $panel-info-heading-bg, $panel-info-border);
+}
+
+.panel-warning {
+    @include panel-variant($panel-warning-border, $panel-warning-text, $panel-warning-heading-bg, $panel-warning-border);
+}
+
+.panel-danger {
+    @include panel-variant($panel-danger-border, $panel-danger-text, $panel-danger-heading-bg, $panel-danger-border);
+}

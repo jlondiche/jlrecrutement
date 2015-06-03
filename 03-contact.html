@@ -1,0 +1,43 @@
+---
+layout: page
+title: Contact
+permalink: /contact/
+---
+
+<div class="page-heading">
+    <h1 class="page-heading__title">Jeanne Londiche</h1>
+</div>
+
+<div class="contact-portrait">
+    <img src="{{ site.baseurl }}/images/jeanne_londiche.jpg" alt="Portrait de Jeanne Londiche">
+</div>
+
+<div class="contact-infos">
+    <div class="row">
+        <div class="col-sm-5 col-sm-push-7">
+            <div class="contact-infos__details">
+                <h2 class="contact-infos__title">{{ site.title }}</h2>
+                <div class="contact-infos__address">
+                    <p>148 rue du faubourg saint-denis,<br> Passage Delanos,<br>75010 Paris, France</p>
+                </div>
+                {% if site.email %}
+                    <div class="contact-infos__email">
+                        <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+                    </div>
+                {% endif %}
+                {% if site.tel %}
+                    <div class="contact-infos__tel">
+                        <a href="tel:{{ site.tel }}">{{ site.tel }}</a>
+                    </div>
+                {% endif %}
+            </div>
+        </div>
+        <div class="col-sm-7 col-sm-pull-5">
+            {% if site.gm_api_key %}
+            <div class="contact-infos__map">
+                <iframe width="540" height="400" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=JL%20Recrutement%2C%20Passage%20Delanos%2C%20Paris%2C%20France&key={{ site.gm_api_key }}"></iframe>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</div>

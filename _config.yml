@@ -1,0 +1,35 @@
+# Site settings
+title: "JL Recrutement"
+description: "JL Recrutement est un cabinet de recrutement indépendant IT spécialisé sur la technologie PHP."
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+paginate: 2
+paginate_path: "/blog/page:num/"
+sass:
+    style: :compressed
+
+# Build settings
+markdown: kramdown
+port: 8000
+
+# Collections
+collections:
+    - testimonials
+    - jobs
+
+# Infos
+email: "jeanne.londiche@jlrecrutement.com"
+tel: "+33649356430"
+
+# Social profiles
+twitter_username:    "jlondiche"
+linkedin_username:   "jlondiche"
+googleplus_username: "Jlrecrutement-php-javascript"
+viadeo_username:     "jeanne.londiche"
+github_username:     "jlondiche"
+
+# Google Map API key
+gm_api_key: AIzaSyByUx56oMzUOwphBvDLTDavqAZSVZKCZrI
+
+# Google Analytics
+ga_id: UA-54920793-1

@@ -1,0 +1,41 @@
+---
+layout: page
+title: Offres d'emploi
+permalink: /recrutement-it/
+---
+
+<div class="row">
+    <div class="col-md-10 col-md-offset-1">
+        <div class="page-heading">
+            <h1 class="page-heading__title">Les opportunités de JL Recrutement</h1>
+            <p class="page-heading__introduction">JL Recrutement séléctionne les annonces blabla qualité....</p>
+        </div>
+
+        <div id="jobs" class="jobs panel-group" role="tablist" aria-multiselectable="true">
+            {% assign count = '0' %}
+            {% for job in site.jobs %}
+                {% capture count %}{{ count | plus: '1' }}{% endcapture %}
+                <div class="panel panel-primary">
+                    <div id="heading-{{ count }}" class="panel-heading" role="tab">
+                        <a class="collapsed" data-toggle="collapse" data-parent="#jobs" href="#job-{{ count }}" aria-expanded="true" aria-controls="job-{{ count }}">
+                            <h2 class="job-title">{{ job.title }}</h2>
+                            <ul class="job-details">
+                                <li class="job-details__list company">{{ job.company }}</li>
+                                <li class="job-details__list location">{{ job.location }}</li>
+                                <li class="job-details__list salary">{{ job.salary }}</li>
+                            </ul>
+                        </a>
+                    </div>
+                    <div id="job-{{ count }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading-{{ count }}">
+                        <div class="job-content panel-body">
+                            {{ job.content }}
+                        </div>
+                        <div class="job-footer panel-footer">
+                            <a href="mailto:{{ site.email }}?subject={{ job.title }}" class="btn btn-primary btn-sm">Contactez-moi</a>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
