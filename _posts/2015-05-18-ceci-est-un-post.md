@@ -4,10 +4,26 @@ title:  "Ceci est un post !"
 date:   2015-05-18 15:54:21
 ---
 
-Aenean lacinia bibendum nulla sed consectetur. Vestibulum id ligula porta felis euismod semper. Etiam porta sem malesuada magna mollis euismod. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+---
+layout: post
+title:  "Ceci est un post !"
+date:   2015-05-18 15:54:21
+---
 
-Etiam porta sem malesuada magna mollis euismod. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec sed odio dui. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec id elit non mi porta gravida at eget metus.
+Les 23 et 24 octobre avaient lieu le forum PHP 2014 à Paris. Événement incontournable pour la <strong>communauté PHP</strong>, JL Recrutement était présent afin d'être au courant des dernières nouveautés de notre langage préféré et rencontrer les entreprises et développeurs impliqués dans la communauté !
+JL Recrutement s'est rendu à plusieurs conférences très intéressantes dont voici une liste non-exhaustive : Olivier DOLBEAU  de Blablacar avec Laisse pas trainer ton log, Marc Hugon de Maison du Monde avec un retour d'expérience sur les tests fonctionnels</a> de chez Maison du Monde. Pour avoir une place, il fallait arriver tôt, les sièges étaient pris d'assaut. J'ai d'ailleurs loupé la conférence de Sébastien ANGELE et Nicolas SILBERMAN concernant l'industrialisation des environnements de dev avec Puppet et Amazon de Groupe Express Roularta.
 
-Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio dui. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nulla vitae elit libero, a pharetra augue.
+Les participants ont apprécié le babyfoot sur le stand de blablacar !
 
-Curabitur blandit tempus porttitor. Donec ullamcorper nulla non metus auctor fringilla. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+<p style="text-align: justify;"><a href="http://jlrecrutement.com/wp-content/uploads/2014/11/babyfoot-blablacar.png"><img class="aligncenter size-full wp-image-5062" src="http://jlrecrutement.com/wp-content/uploads/2014/11/babyfoot-blablacar.png" alt="babyfoot-blablacar" width="450" height="600" /></a></p>
+Nous avons eu plein de goodies :) : l'agence jolicode et ses lunettes, gandi et ses t-shirts, LE bilboquet de Monsieur Biz / Jacques Bodin-Hullin... etc
+Bref l'ambiance était vraiment très sympa et on y rencontre les leaders communautaires, des développeurs confirmés et des grands noms du web. L'événement confirme son statut de regroupement immanquable pour tous les fans de PHP.
+L'événement bat son plein durant l'après-midi et <strong>JL Recrutement</strong> continue à faire des rencontres avec des développeurs placés depuis un moment et d'autres qui souhaitent avoir des informations sur le marché (salaires, qui recrute, etc).
+
+La fin de l'événement fut marqué par le karoké slide animé par Dits Kenny de M6 : le jeu est d'improviser un mini-discours avec des images qui s'affichent à l'écran (un robot, un chien, etc) ! La difficulté étant bien sûr de créer un lien entre toutes les images :) Bravo aux volontaires, on a bien rigolé !
+
+La première journée s'est terminée avec l'apéro communautaire très réussi, toujours avec une superbe ambiance et encore beaucoup de monde !
+La conclusion de cette journée est que la <strong>communauté française PHP</strong> se porte bien avec de nombreux projets prometteurs mais surtout de plus en plus de développeurs qui utilisent le langage, et ça c'est une bonne nouvelle pour l'environnement tech française.
+
+En attendant le PHP Tour, JL Recrutement sera présent aux évènements parisiens : Sfpot, Paris Tech Talk...
+
