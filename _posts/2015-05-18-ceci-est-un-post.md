@@ -1,23 +1,21 @@
 ---
 layout: post
-title:  "Ceci est un post !"
-date:   2015-05-18 15:54:21
----
-
----
-layout: post
-title:  "Ceci est un post !"
+title:  Forum PHP 2014
 date:   2015-05-18 15:54:21
 ---
 
 Les 23 et 24 octobre avaient lieu le forum PHP 2014 à Paris. Événement incontournable pour la <strong>communauté PHP</strong>, JL Recrutement était présent afin d'être au courant des dernières nouveautés de notre langage préféré et rencontrer les entreprises et développeurs impliqués dans la communauté !
-JL Recrutement s'est rendu à plusieurs conférences très intéressantes dont voici une liste non-exhaustive : Olivier DOLBEAU  de Blablacar avec Laisse pas trainer ton log, Marc Hugon de Maison du Monde avec un retour d'expérience sur les tests fonctionnels</a> de chez Maison du Monde. Pour avoir une place, il fallait arriver tôt, les sièges étaient pris d'assaut. J'ai d'ailleurs loupé la conférence de Sébastien ANGELE et Nicolas SILBERMAN concernant l'industrialisation des environnements de dev avec Puppet et Amazon de Groupe Express Roularta.
+
+JL Recrutement s'est rendu à plusieurs conférences très intéressantes dont voici une liste non-exhaustive : Olivier DOLBEAU  de Blablacar avec Laisse pas trainer ton log, Marc Hugon de Maison du Monde avec un retour d'expérience sur les tests fonctionnels</a> de chez Maison du Monde. Pour avoir une place, il fallait arriver tôt, les sièges étaient pris d'assaut. 
+
+J'ai d'ailleurs loupé la conférence de Sébastien ANGELE et Nicolas SILBERMAN concernant l'industrialisation des environnements de dev avec Puppet et Amazon de Groupe Express Roularta.
 
 Les participants ont apprécié le babyfoot sur le stand de blablacar !
 
-<p style="text-align: justify;"><a href="http://jlrecrutement.com/wp-content/uploads/2014/11/babyfoot-blablacar.png"><img class="aligncenter size-full wp-image-5062" src="http://jlrecrutement.com/wp-content/uploads/2014/11/babyfoot-blablacar.png" alt="babyfoot-blablacar" width="450" height="600" /></a></p>
 Nous avons eu plein de goodies :) : l'agence jolicode et ses lunettes, gandi et ses t-shirts, LE bilboquet de Monsieur Biz / Jacques Bodin-Hullin... etc
+
 Bref l'ambiance était vraiment très sympa et on y rencontre les leaders communautaires, des développeurs confirmés et des grands noms du web. L'événement confirme son statut de regroupement immanquable pour tous les fans de PHP.
+
 L'événement bat son plein durant l'après-midi et <strong>JL Recrutement</strong> continue à faire des rencontres avec des développeurs placés depuis un moment et d'autres qui souhaitent avoir des informations sur le marché (salaires, qui recrute, etc).
 
 La fin de l'événement fut marqué par le karoké slide animé par Dits Kenny de M6 : le jeu est d'improviser un mini-discours avec des images qui s'affichent à l'écran (un robot, un chien, etc) ! La difficulté étant bien sûr de créer un lien entre toutes les images :) Bravo aux volontaires, on a bien rigolé !
