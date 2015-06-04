@@ -5,9 +5,26 @@
     <description>JL Recrutement est un cabinet de recrutement indépendant IT spécialisé sur la technologie PHP.</description>
     <link>http://www.jlrecrutement.com/</link>
     <atom:link href="http://www.jlrecrutement.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Jun 2015 16:51:30 +0200</pubDate>
-    <lastBuildDate>Thu, 04 Jun 2015 16:51:30 +0200</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2015 17:04:23 +0200</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2015 17:04:23 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Remerciements</title>
+        <description>&lt;p&gt;JL Recrutement est cité au PHP Tour du Luxembourg dans 2 conf’, merci à Etienne SAMSON de Mediapart et Xavier LEUNE de CCM Benchmark pour leur confiance.&lt;/p&gt;
+
+&lt;p&gt;Voici les deux vidéos et également &lt;a href=&quot;https://www.youtube.com/playlist?list=PL9zDdgiGjkIc_1wnKTdU68dmVZ77ayPwW&quot;&gt;le lien&lt;/a&gt; pour revoir les conférences qui ont eu lieu au PHP Tour Luxembourg.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/8j_LprxGYbA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/zHtLFAsA24s&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Tue, 02 Jun 2015 22:54:21 +0200</pubDate>
+        <link>http://www.jlrecrutement.com/2015/06/02/remerciements-mediapart-ccm-benchmark.html</link>
+        <guid isPermaLink="true">http://www.jlrecrutement.com/2015/06/02/remerciements-mediapart-ccm-benchmark.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Apérooo PHP Tour Luxembourg 2015</title>
