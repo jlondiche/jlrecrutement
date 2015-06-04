@@ -1,7 +1,7 @@
 ---
 title: Développeur PHP
-company: Société
-location: Paris, France
+company: PLate-forme SaaS de social media
+location: Paris 1, France
 salary: Selon profil
 ---
 
@@ -9,11 +9,13 @@ salary: Selon profil
 
  Entreprise internationale (New York, Paris, Londres et Singapour) éditant une plateforme SaaS pour les entreprises dans plus de 200 pays et en 50 langues.
 
-<strong>Les projets</strong>
+<strong>Profil</strong>
 
-Vous travaillerez sur des sites réputés touchant au contenu, à la vidéo et à une vraie communauté.
+Vous êtes un développeur passionné par les tests, l’automatisation, l’intégration continue ? Les problématiques Big Data et temps réel vous attirent ?
 
-L'équipe technique est composée d'une vingtaine de personnes. Votre manager sera une personne expérimentée avec de fortes connaissances en Web et une réelle expertise en Gestion de projet.
+- Vous êtes un bon développeur
+- Vous avez le sens des tests
+- Vous souhaitez évoluer vers un poste QA
 
 <strong>Pourquoi venir travailler pour cette entreprise ?</strong>
 
@@ -30,12 +32,6 @@ L'équipe technique est composée d'une vingtaine de personnes. Votre manager se
 - Votre objectif sera d’automatiser les tests en développant des outils techniques, en utilisant Selenium, en intégrant des plugins et en configurant Jenkins.
 - Vous mettrez en place du reporting et des alertes pour que le niveau de la qualité soit excellent.
 - Vous contribuerez à l’innovation et serez force de proposition pour les évolutions produits et projets innovants.
-
-<strong>Profil</strong>
-
-- Vous êtes un bon développeur
-- Vous avez le sens des tests
-- Vous souhaitez évoluer vers un poste QA
 
 <strong>Environnement technique</strong>
 

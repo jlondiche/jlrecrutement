@@ -1,8 +1,8 @@
 ---
 title: Développeur Core/Back-end
 company: Solution Opensource leader
-location: Paris, France
-salary: Selon profil
+location: Paris 9, France
+salary: 45-55K€
 ---
 
 <strong>L’entreprise</strong>
@@ -25,7 +25,7 @@ L'objectif de l'équipe est de créer une plate-forme innovante et performante t
 - Utilisation de PHP Unit, Behat, Atoum...
 - Familier avec Git
 
-<strong>Compétences souhaitées/strong>
+<strong>Compétences souhaitées</strong>
 
 - norme PSR-0, utilization de Composer
 - Jenkins, Behat/BDD, Doctrine, Propel , Redis, Memcache, ElasticSearch, Solr, Capistrano, nginx, bash

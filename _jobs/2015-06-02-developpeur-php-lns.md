@@ -1,7 +1,7 @@
 ---
-title: Développeur PHP en agence
-company: Agence web
-location: Paris, France
+title: Développeur PHP très curieux
+company: Agence web de luxe !
+location: Paris 12, France
 salary: 35-40K€
 ---
 

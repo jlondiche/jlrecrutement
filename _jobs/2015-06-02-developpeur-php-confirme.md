@@ -1,7 +1,7 @@
 ---
 title: Développeur PHP Confirmé
 company: Solution B2B e-Commerce
-location: Paris, France
+location: Paris 2, France
 salary: 40-50K€
 ---
 

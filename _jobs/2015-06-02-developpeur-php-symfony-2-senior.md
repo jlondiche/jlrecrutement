@@ -1,7 +1,7 @@
 ---
 title: Développeur PHP/Symfony2 Senior
-company: Éditeur de sites web
-location: Paris, France
+company: Éditeur de sites web avec plus de 60M de VU par mois dans le monde
+location: Paris 9, France
 salary: 42-48K€
 ---
 
