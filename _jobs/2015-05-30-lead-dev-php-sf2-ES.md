@@ -1,7 +1,7 @@
 ---
-title: Lead Dev PHP
+title: Référent Technique Symfony 2, ElasticSearch
 company: Réseau social innovant
-location: Paris, France
+location: Paris Ouest, France
 salary: 55-65K€
 ---
 
