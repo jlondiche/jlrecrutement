@@ -65,4 +65,9 @@
         color: $color-primary;
         background: transparent url('../images/icons/icon-quote.svg') 0 0 no-repeat;
     }
+
+    a {
+        text-decoration: underline;
+        color: $color-primary;
+    }
 }
