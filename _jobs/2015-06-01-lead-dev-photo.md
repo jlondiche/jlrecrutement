@@ -1,8 +1,8 @@
 ---
-title: Lead Developer
+title: Lead Developer / Responsable Technique Symfony 2
 company: Plate-forme de photos
-location: Paris, France
-salary: Selon profil
+location: Paris 6, France
+salary: 50-65K€
 ---
 
 <strong>L’entreprise</strong>
