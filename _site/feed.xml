@@ -5,9 +5,31 @@
     <description>JL Recrutement est un cabinet de recrutement indépendant IT spécialisé sur la technologie PHP.</description>
     <link>http://www.jlrecrutement.com/</link>
     <atom:link href="http://www.jlrecrutement.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Jun 2015 16:42:06 +0200</pubDate>
-    <lastBuildDate>Thu, 04 Jun 2015 16:42:06 +0200</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2015 16:49:38 +0200</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2015 16:49:38 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Apérooo PHP Tour Luxembourg 2015</title>
+        <description>&lt;p&gt;Un des meilleurs moments, l’apérooo !!&lt;/p&gt;
+
+&lt;p&gt;Nous nous sommes tous retrouvés au Scott’s pub, juste à côté de l’Abbaye pour discuter de cette première journée de conférences.&lt;/p&gt;
+
+&lt;p&gt;C’était très agréable. Organisés par Vesperia et Ike, nous avions une surprise à la clef : le gâteau PHP pour les 15 ans de l’AFUP Et surtout les 20 ans de PHP !&lt;/p&gt;
+
+&lt;p&gt;J’ai pu manger l’oeil du gros éléphant…et il était très bon.&lt;/p&gt;
+
+&lt;p&gt;On attend le Forum PHP pour voir comment sera le gâteau là bas ! :)&lt;/p&gt;
+
+&lt;p&gt;A bientôt,
+Jeanne&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 May 2015 17:54:21 +0200</pubDate>
+        <link>http://www.jlrecrutement.com/2015/05/30/php-tour-apero.html</link>
+        <guid isPermaLink="true">http://www.jlrecrutement.com/2015/05/30/php-tour-apero.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>PHP Tour Luxembourg 2015</title>
@@ -18,9 +40,9 @@
 &lt;p&gt;&lt;img src=&quot;/assets/2015/05/anniv-php.png&quot; alt=&quot;anniv-php&quot; /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 30 Oct 2014 16:54:21 +0100</pubDate>
-        <link>http://www.jlrecrutement.com/2014/10/30/php-tour-2015.html</link>
-        <guid isPermaLink="true">http://www.jlrecrutement.com/2014/10/30/php-tour-2015.html</guid>
+        <pubDate>Fri, 15 May 2015 17:54:21 +0200</pubDate>
+        <link>http://www.jlrecrutement.com/2015/05/15/php-tour-2015.html</link>
+        <guid isPermaLink="true">http://www.jlrecrutement.com/2015/05/15/php-tour-2015.html</guid>
         
         
       </item>
