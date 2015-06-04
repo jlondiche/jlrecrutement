@@ -3,63 +3,41 @@
   <channel>
     <title>JL Recrutement</title>
     <description>JL Recrutement est un cabinet de recrutement indépendant IT spécialisé sur la technologie PHP.</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 Jun 2015 17:38:54 +0200</pubDate>
-    <lastBuildDate>Wed, 03 Jun 2015 17:38:54 +0200</lastBuildDate>
+    <link>http://www.jlrecrutement.com/</link>
+    <atom:link href="http://www.jlrecrutement.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 04 Jun 2015 11:43:30 +0200</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2015 11:43:30 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Ceci est un post 3 !</title>
-        <description>&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Vestibulum id ligula porta felis euismod semper. Etiam porta sem malesuada magna mollis euismod. Cras justo odio, dapibus ac facilisis in, egestas eget quam.&lt;/p&gt;
+        <title>Forum PHP 2014</title>
+        <description>&lt;p&gt;Les 23 et 24 octobre avaient lieu le forum PHP 2014 à Paris. Événement incontournable pour la &lt;strong&gt;communauté PHP&lt;/strong&gt;, JL Recrutement était présent afin d’être au courant des dernières nouveautés de notre langage préféré et rencontrer les entreprises et développeurs impliqués dans la communauté !&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/2015/05/kitten.jpg&quot; alt=&quot;Kitten&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;JL Recrutement s’est rendu à plusieurs conférences très intéressantes dont voici une liste non-exhaustive : Olivier DOLBEAU de Blablacar avec Laisse pas trainer ton log, Marc Hugon de Maison du Monde avec un retour d’expérience sur les tests fonctionnels de chez Maison du Monde. Pour avoir une place, il fallait arriver tôt, les sièges étaient pris d’assaut.&lt;/p&gt;
 
-&lt;p&gt;Etiam porta sem malesuada magna mollis euismod. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec sed odio dui. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec id elit non mi porta gravida at eget metus.&lt;/p&gt;
+&lt;p&gt;J’ai d’ailleurs loupé la conférence de Sébastien ANGELE et Nicolas SILBERMAN concernant l’industrialisation des environnements de dev avec Puppet et Amazon de Groupe Express Roularta.&lt;/p&gt;
+
+&lt;p&gt;Nous avons eu plein de goodies :) : l’agence jolicode et ses lunettes, gandi et ses t-shirts, LE bilboquet de Monsieur Biz / Jacques Bodin-Hullin…&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio dui. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
+  &lt;p&gt;Bref l’ambiance était vraiment très sympa et on y rencontre les leaders communautaires, des développeurs confirmés et des grands noms du web. L’événement confirme son statut de regroupement immanquable pour tous les fans de PHP.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Curabitur blandit tempus porttitor. Donec ullamcorper nulla non metus auctor fringilla. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+&lt;p&gt;L’événement bat son plein durant l’après-midi et &lt;strong&gt;JL Recrutement&lt;/strong&gt; continue à faire des rencontres avec des développeurs placés depuis un moment et d’autres qui souhaitent avoir des informations sur le marché (salaires, qui recrute, etc).&lt;/p&gt;
+
+&lt;p&gt;La fin de l’événement fut marqué par le karoké slide animé par Dits Kenny de M6 : le jeu est d’improviser un mini-discours avec des images qui s’affichent à l’écran (un robot, un chien, etc) ! La difficulté étant bien sûr de créer un lien entre toutes les images :) Bravo aux volontaires, on a bien rigolé !&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2015/05/slideshow-php-tour.jpg&quot; alt=&quot;slideshow-php-tour&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;La première journée s’est terminée avec l’apéro communautaire très réussi, toujours avec une superbe ambiance et encore beaucoup de monde !
+La conclusion de cette journée est que la &lt;strong&gt;communauté française PHP&lt;/strong&gt; se porte bien avec de nombreux projets prometteurs mais surtout de plus en plus de développeurs qui utilisent le langage, et ça c’est une bonne nouvelle pour l’environnement tech français.&lt;/p&gt;
+
+&lt;p&gt;En attendant le PHP Tour, JL Recrutement sera présent aux évènements parisiens : Sfpot, Paris Tech Talk…&lt;/p&gt;
+
 </description>
-        <pubDate>Wed, 20 May 2015 17:54:21 +0200</pubDate>
-        <link>http://yourdomain.com/2015/05/20/ceci-est-un-post-3.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/05/20/ceci-est-un-post-3.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Ceci est un post 2 !</title>
-        <description>&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Vestibulum id ligula porta felis euismod semper. Etiam porta sem malesuada magna mollis euismod. Cras justo odio, dapibus ac facilisis in, egestas eget quam.&lt;/p&gt;
-
-&lt;p&gt;Etiam porta sem malesuada magna mollis euismod. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec sed odio dui. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec id elit non mi porta gravida at eget metus.&lt;/p&gt;
-
-&lt;p&gt;Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio dui. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-
-&lt;p&gt;Curabitur blandit tempus porttitor. Donec ullamcorper nulla non metus auctor fringilla. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 19 May 2015 17:54:21 +0200</pubDate>
-        <link>http://yourdomain.com/2015/05/19/ceci-est-un-post-2.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/05/19/ceci-est-un-post-2.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Ceci est un post !</title>
-        <description>&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Vestibulum id ligula porta felis euismod semper. Etiam porta sem malesuada magna mollis euismod. Cras justo odio, dapibus ac facilisis in, egestas eget quam.&lt;/p&gt;
-
-&lt;p&gt;Etiam porta sem malesuada magna mollis euismod. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec sed odio dui. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec id elit non mi porta gravida at eget metus.&lt;/p&gt;
-
-&lt;p&gt;Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio dui. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-
-&lt;p&gt;Curabitur blandit tempus porttitor. Donec ullamcorper nulla non metus auctor fringilla. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 18 May 2015 17:54:21 +0200</pubDate>
-        <link>http://yourdomain.com/2015/05/18/ceci-est-un-post.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/05/18/ceci-est-un-post.html</guid>
+        <pubDate>Thu, 30 Oct 2014 16:54:21 +0100</pubDate>
+        <link>http://www.jlrecrutement.com/2014/10/30/forum-php-2014.html</link>
+        <guid isPermaLink="true">http://www.jlrecrutement.com/2014/10/30/forum-php-2014.html</guid>
         
         
       </item>

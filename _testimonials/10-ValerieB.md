@@ -1,5 +1,5 @@
 ---
-name: Valérie B.
+name: Valerie B.
 company: Office Manager - Editeur logiciels Multimédias
 ---
 
