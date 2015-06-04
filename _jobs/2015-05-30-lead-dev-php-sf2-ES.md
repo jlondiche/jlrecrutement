@@ -35,7 +35,7 @@ Bonheur pour les développeurs : Isolés de toute forme de stress, le marketing 
 - Construire de nouvelles pages affichant toujours plus de contenu indexé dans ElasticSearch.
 - Consolider leur système en sollicitant Redis et RabbitMQ.
 - Géolocaliser toujours plus de contenus pour mieux servir les utilisateurs.
-- Mettre en place les test unitaires et fonctionnels avec PHPUnit et Behat.
+- Mettre en place les tests unitaires et fonctionnels avec PHPUnit et Behat.
 
 <strong>Informations</strong>
 
@@ -44,6 +44,6 @@ Bonheur pour les développeurs : Isolés de toute forme de stress, le marketing 
 
 Si vous êtes intéressé, contactez-moi et envoyez votre CV à jeanne.londiche@jlrecrutement.com.
 
-A bientôt,
+À bientôt,
 
 Jeanne LONDICHE
