@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Apérooo PHP Tour Luxembourg 2015
-date:   2015-05-30 15:54:21
+date:   2015-05-15 20:54:21
 ---
 
 Un des meilleurs moments, l’apérooo !!
@@ -15,4 +15,5 @@ J’ai pu manger l’oeil du gros éléphant…et il était très bon.
 On attend le Forum PHP pour voir comment sera le gâteau là bas ! :)
 
 A bientôt,
+
 Jeanne
