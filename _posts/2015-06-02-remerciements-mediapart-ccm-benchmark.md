@@ -24,4 +24,3 @@ Speaker : Xavier Leune
 
 
 Voici également <a href="https://www.youtube.com/playlist?list=PL9zDdgiGjkIc_1wnKTdU68dmVZ77ayPwW">le lien</a> pour revoir les conférences qui ont eu lieu au PHP Tour Luxembourg via la chaîne youtube de l'AFUP.
-
