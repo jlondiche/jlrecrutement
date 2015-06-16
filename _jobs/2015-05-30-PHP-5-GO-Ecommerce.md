@@ -1,5 +1,5 @@
 ---
-title: Developpeur Web PHP 5 Python 2
+title: Développeur Web PHP 5 Python 2
 company: Site e-Commerce à haute volumétrie
 location: Paris 2, France
 salary: 45-50K€
