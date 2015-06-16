@@ -15,6 +15,13 @@ Premier développeur iOS/Android, vous serez le référent sur ces domaines de c
 
 En duo avec le CTO, vous devrez effectuer les choix techniques, mettre en place des tests sur les différents appareils et prendre en compte un environnement à volume de trafic élevé.
 
+Les projets auront notamment comme cadres :
+
+- Domaine marketing / publicitaire,
+- Développeur iOS / Android,
+- Interactions avec l’équipe backend / frontend,
+- Intégration / contraintes de trafic / Big Data.
+
 <strong>Pourquoi cette entreprise</strong>
 
 Leader dans plusieurs domaines d'activité, la société est en pleine croissance (plusieurs millions de CA et déjà rentable) avec de nombreux projets dans les cartons !
