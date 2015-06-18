@@ -33,13 +33,13 @@ Si vous aimez le challenge, vous embarquerez potentiellement dans une future suc
 
 - PHP / MySQL / JSON / RESTs
 - Hébergement cloud
-- Autres choix technologiques à définir avec l'équipe.
+- Autres choix technologiques à définir avec l'équipe
 
 <strong>Compétences requises</strong>
 
 - PHP
 - MySQL
-- Bonnes connaisances en front et back : javascript, ajax, et éventuellement des environnements fullJS
+- Bonnes connaissances en front et back : javascript, ajax, et éventuellement des environnements fullJS
 - Orienté Devops
 - Méthode Agiles
 - Profil curieux
