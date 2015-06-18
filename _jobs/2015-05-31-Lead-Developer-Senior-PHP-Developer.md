@@ -41,7 +41,7 @@ Si vous aimez le challenge, vous embarquerez potentiellement dans une future suc
 - MySQL
 - Bonnes connaissances en front et back : javascript, ajax, et éventuellement des environnements fullJS
 - Orienté Devops
-- Méthode Agiles
+- Méthodes Agiles
 - Profil curieux
 
 <strong>Informations</strong>
