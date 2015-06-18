@@ -48,7 +48,7 @@ Si vous aimez le challenge, vous embarquerez potentiellement dans une future suc
 
 - Poste en CDI
 - Paris Ouest
-- Selon profil
+- Salaire : selon profil
 
 Si vous êtes intéressé, contactez-moi et envoyez votre CV à jeanne.londiche@jlrecrutement.com.
 
