@@ -5,9 +5,46 @@
     <description>JL Recrutement est un cabinet de recrutement indépendant IT spécialisé sur la technologie PHP.</description>
     <link>http://www.jlrecrutement.com/</link>
     <atom:link href="http://www.jlrecrutement.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 18 Jun 2015 14:44:50 +0200</pubDate>
-    <lastBuildDate>Thu, 18 Jun 2015 14:44:50 +0200</lastBuildDate>
+    <pubDate>Thu, 18 Jun 2015 15:52:46 +0200</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2015 15:52:46 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>SfPot Juin 2015 - @Mozilla</title>
+        <description>&lt;p&gt;C’est avec curiostié que je me suis rendu au SfPot de Juin hébergé par…Mozilla !&lt;/p&gt;
+
+&lt;p&gt;Au sein d’un ancien hôtel particulier, les locaux sont merveilleux et sont une belle vitrine pour la fondation !&lt;/p&gt;
+
+&lt;p&gt;Vous pouvez en juger par vous-même :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2015/06/sfpot.jpg&quot; alt=&quot;sfpot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Concernant l’évenement, nous avons assisté à deux superbes conférences.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Retour d’expérience sur la création d’une timeline avec Symfony&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Speaker : Matthieu Auger&lt;/p&gt;
+
+&lt;p&gt;Vous pouvez retrouver son slide deck &lt;a href=&quot;http://slides.com/matthieuauger/deck#/&quot;&gt;ici&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Tristan Roussel nous a parlé des translations avancées avec sa présentation “Lost in Localization”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Speaker : Tristan Roussel&lt;/p&gt;
+
+&lt;p&gt;Vous pouvez retrouver son slide deck &lt;a href=&quot;http://slides.com/triii007/lost-in-localization/#/&quot;&gt;ici&lt;/a&gt;. Retrouvez également son projet d’exemple sur &lt;a href=&quot;https://github.com/Triiistan/LostInLocalization&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Encore une fois, j’invite tous mes candidats à se rendre à ces événements très intéressants.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 Jun 2015 22:54:21 +0200</pubDate>
+        <link>http://www.jlrecrutement.com/2015/06/18/SFpot-mozilla.html</link>
+        <guid isPermaLink="true">http://www.jlrecrutement.com/2015/06/18/SFpot-mozilla.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Remerciements Mediapart et CCM Benchmark</title>
@@ -36,8 +73,8 @@
 &lt;p&gt;Voici également &lt;a href=&quot;https://www.youtube.com/playlist?list=PL9zDdgiGjkIc_1wnKTdU68dmVZ77ayPwW&quot;&gt;le lien&lt;/a&gt; pour revoir les conférences qui ont eu lieu au PHP Tour Luxembourg via la chaîne youtube de l’AFUP.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Jun 2015 22:54:21 +0200</pubDate>
-        <link>http://www.jlrecrutement.com/2015/06/02/remerciements-mediapart-ccm-benchmark.html</link>
-        <guid isPermaLink="true">http://www.jlrecrutement.com/2015/06/02/remerciements-mediapart-ccm-benchmark.html</guid>
+        <link>http://www.jlrecrutement.com/2015/06/02/remerciements-mediapart-ccm-benchmark%20-%20copie.html</link>
+        <guid isPermaLink="true">http://www.jlrecrutement.com/2015/06/02/remerciements-mediapart-ccm-benchmark%20-%20copie.html</guid>
         
         
       </item>
