@@ -38,10 +38,7 @@ Vous rejoindrez une équipe de développeurs passionnés mais surtout très moti
 
 - Objective C / Swift
 - Java / SDK Android
-- PHP 5.3+
-- MySQL 5 / MariaDB
 - Git / Mercurial
-- Système de tickets (Jira, Trac, ...)
 
 <strong>Environnement technique</strong>
 

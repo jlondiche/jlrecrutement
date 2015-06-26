@@ -47,6 +47,6 @@ Au sein de l’équipe R&D vous travaillerez au sein d’une équipe dynamique r
 
 Si vous êtes intéressé, contactez-moi et envoyez votre CV à jeanne.londiche@jlrecrutement.com.
 
-A bientôt,
+À bientôt,
 
 Jeanne LONDICHE
