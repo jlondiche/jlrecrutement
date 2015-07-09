@@ -4,7 +4,7 @@ title:  SfPot Juin 2015 - @Mozilla
 date:   2015-06-18 20:54:21
 ---
 
-C'est avec curiostié que je me suis rendu au SfPot de Juin hébergé par...Mozilla !
+C'est avec curiosité que je me suis rendu au SfPot de Juin hébergé par...Mozilla !
 
 Au sein d'un ancien hôtel particulier, les locaux sont merveilleux et sont une belle vitrine pour la fondation ! 
 

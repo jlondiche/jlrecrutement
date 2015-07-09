@@ -17,7 +17,7 @@ Vous garderez les mains dans le cambouis : Vous développerez et déploierez quo
 
 <strong>Pourquoi cette entreprise</strong>
 
-Technos sexy telles que Symfony2, ElasticSearch, Redis et RabbitMQ, PostgreSQL. nvironnement UNIX, Intégration continue, Tests.
+Technos sexy telles que Symfony2, ElasticSearch, Redis et RabbitMQ, PostgreSQL. Environnement UNIX, Intégration continue, Tests.
 
 L'entreprise est constituée de plusieurs applications : 
 

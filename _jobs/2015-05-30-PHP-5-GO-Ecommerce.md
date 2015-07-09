@@ -11,7 +11,7 @@ Entreprise au coeur de Paris avec un environnement à très haute disponibilité
 
 <strong>Les projets</strong>
 
-Equipe IT de 7 personnes. Vous travaillerez en PHP (70%) et Python (30%) pour les chaines de caractères, les batch, démons et process back-end. Le Go est aussi utilisé.
+Equipe IT de 7 personnes. Vous travaillerez en PHP (70%) et Python (30%) pour les chaînes de caractères, les batch, démons et process back-end. Le Go est aussi utilisé.
 
 Environnement technique : 
 

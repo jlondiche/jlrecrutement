@@ -17,7 +17,7 @@ L'objectif de l'équipe est de créer une plate-forme innovante et performante t
 
 <strong>Compétences demandées</strong>
 
-- Google and Stackoverflow sont vow meilleurs amis
+- Google and Stackoverflow sont vos meilleurs amis
 - Vous aimez les choses simples et bien faites
 - Expertise en PHP (POO et MVC) avec un code propre, documenté, testé et réutilisable
 - Vous avez de l'expérience sur un ou plusieurs Framework PHP
@@ -27,7 +27,7 @@ L'objectif de l'équipe est de créer une plate-forme innovante et performante t
 
 <strong>Compétences souhaitées</strong>
 
-- norme PSR-0, utilization de Composer
+- norme PSR-0, utilisation de Composer
 - Jenkins, Behat/BDD, Doctrine, Propel , Redis, Memcache, ElasticSearch, Solr, Capistrano, nginx, bash
 - Facebook API, Twitter API, Facebook Connect
 - Experience en NoSQL / MongoDB

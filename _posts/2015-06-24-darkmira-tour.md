@@ -10,7 +10,7 @@ Cet événement avait pour but de regrouper la communauté php/zend autour de co
 
 Personnellement, j'ai voulu assister à la conférence de <a href="https://twitter.com/julienguittard">Julien Guittard</a> pour en savoir plus sur les principales fonctionnalités de la nouvelle version de ZF3. 
 
-Après cette présentation, je suis restée pour assiter à la seconde conférence de Julien : Apigility - créez vos API en quelques clics. J'en ai profité pour apprendre les conventions pour bien coder en PHP, notamment avec le respect des normes.
+Après cette présentation, je suis restée pour assister à la seconde conférence de Julien : Apigility - créez vos API en quelques clics. J'en ai profité pour apprendre les conventions pour bien coder en PHP, notamment avec le respect des normes.
 
 ![julien_guittard](/assets/2015/06/julien_guittard.jpg)
 
