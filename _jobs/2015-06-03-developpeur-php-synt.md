@@ -1,6 +1,6 @@
 ---
 title: Développeur PHP
-company: PLate-forme SaaS de social media
+company: Plate-forme SaaS de social media
 location: Paris 1, France
 salary: Selon profil
 ---
@@ -35,7 +35,7 @@ Vous êtes un développeur passionné par les tests, l’automatisation, l’int
 
 <strong>Environnement technique</strong>
 
-Apache2 | PHP5.3, Redis, Cassandra, ElasticSearch | Redmine, Atoom, Selenium, Jenkins | Git
+Apache2 | PHP5.3, Redis, Cassandra, ElasticSearch | Redmine, Atoum, Selenium, Jenkins | Git
 
 Si vous êtes intéressé, contactez-moi et envoyez votre CV à jeanne.londiche@jlrecrutement.com.
 

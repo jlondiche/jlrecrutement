@@ -25,7 +25,7 @@ Vous aurez la responsabilité technique du projet de l’admin jusqu'au front, v
 
 <strong>Pourquoi venir travailler pour cette entreprise</strong>
 
-- norme PSR-0, utilization de Composer
+- norme PSR-0, utilisation de Composer
 - Jenkins, Behat/BDD, Doctrine, Propel , Redis, Memcache, ElasticSearch, Solr, Capistrano, nginx, bash
 - Facebook API, Twitter API, Facebook Connect
 - Experience en NoSQL / MongoDB
