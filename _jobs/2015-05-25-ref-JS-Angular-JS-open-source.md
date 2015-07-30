@@ -1,8 +1,8 @@
 ---
-title: Dev Back Office
+title: Référent JS / AngularJS
 company: Projet Open Source
 location: Paris
-salary: selon profil
+salary: 40-45K€ selon profil
 ---
 
 <strong>Pourquoi rejoindre ce projet ?</strong>
@@ -25,9 +25,11 @@ Cette société édite plusieurs softwares Open Source utilisés quotidiennement
 
 <strong>Vous interviendrez sur les projets suivants :</strong>
 
-- Concevoir des solutions en collaboration avec un architecte
-- Développer et maintenir les briques logicielles de la plate-forme
-- Participer à l’industrialisation des processus de développement, tests, déploiement
+- Intégration d’un framework JS dans l’IHM 
+- Industrialiser et harmoniser ce framework
+- Mettre en place des tests
+
+L'objectif est d'opensourcer une bonne partie des applicatifs.
 
 <strong>Informations</strong>
 
