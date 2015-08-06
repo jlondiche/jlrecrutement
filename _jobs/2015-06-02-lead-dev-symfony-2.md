@@ -1,5 +1,5 @@
 ---
-title: Lead Dev Symfony 2
+title: Lead Dev Symfony 2<img src="../assets/2015/08/tampon-pourvu.jpg" align="right">
 company: Catalogue B2B de plus de 55000 produits
 location: Paris, France
 salary: Selon profil

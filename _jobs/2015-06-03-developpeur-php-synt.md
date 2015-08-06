@@ -1,5 +1,5 @@
 ---
-title: Développeur PHP
+title: Développeur PHP<img src="../assets/2015/08/tampon-pourvu.jpg" align="right">
 company: PLate-forme SaaS de social media
 location: Paris 1, France
 salary: Selon profil

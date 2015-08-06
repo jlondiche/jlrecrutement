@@ -1,6 +1,6 @@
 ---
 title: Administrateur Système
-company: Projet Open Source
+company: Projet Open Source - Calcul d'itinéraires en temps réel
 location: Paris
 salary: selon profil
 ---

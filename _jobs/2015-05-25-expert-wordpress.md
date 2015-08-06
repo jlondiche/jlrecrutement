@@ -1,5 +1,5 @@
 ---
-title: Expert Wordpress
+title: Développeur PHP confirmé - Expertise Wordpress
 company: Groupe média
 location: Paris
 salary: 45-40K€ selon profil

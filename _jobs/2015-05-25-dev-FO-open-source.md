@@ -1,6 +1,6 @@
 ---
-title: Dev Front Office
-company: Projet Open Source
+title: Développeur PHP - Équipe Front Office
+company: Projet Open Source - Calcul d'itinéraires en temps réel
 location: Paris
 salary: selon profil
 ---

@@ -1,5 +1,5 @@
 ---
-title: Associé CTO PHP - projet qui démarre
+title: Associé CTO PHP - projet qui démarre<img src="../assets/2015/08/tampon-pourvu.jpg" align="right">
 company: Outil pour mieux s'alimenter
 location: Anywhere
 salary: Selon profil + parts
