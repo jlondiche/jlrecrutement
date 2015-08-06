@@ -1,5 +1,5 @@
 ---
-title: Référent JavaScrit / AngularJS
+title: Référent JavaScript / AngularJS
 company: Projet Open Source - Calcul d'itinéraires en temps réel
 location: Paris
 salary: 40-45K€ selon profil
