@@ -1,5 +1,5 @@
 ---
-title: Architecte Web
+title: Responsable technique PHP
 company: Groupe média
 location: Paris Ouest
 salary: 55-80K€

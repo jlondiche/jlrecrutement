@@ -1,5 +1,5 @@
 ---
-title: Développeur mobile (iOS/Android) et PHP
+title: Développeur mobile iOS/Android
 company: Éditeur de solutions marketing
 location: Paris Ouest, France
 salary: 45K€ +/- selon profil
