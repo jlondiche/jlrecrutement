@@ -1,5 +1,5 @@
 ---
-title: Référent JavaScript / AngularJS
+title: Référent JavaScript
 company: Projet Open Source - Calcul d'itinéraires en temps réel
 location: Paris
 salary: 40-45K€ selon profil
@@ -17,10 +17,11 @@ Cette société édite plusieurs softwares Open Source utilisés quotidiennement
 
 - PHP5 / Symfony 2 (première expérience personnelle ou professionnelle pertinente requise sur SF2)
 - Bases de données Postgre et/ou Mysql
-- Bon niveau en Javascript (AngularJS, NodeJS), avec l’envie d’approfondir vos connaissances sur ces sujets
+- Bon niveau en Javascript avec l’envie d’approfondir vos connaissances sur ces sujets
+- Expérience en projet d'industrialisation : test, choix des outils, etc.
 - Outil de versionning : GIT
 - Intégration continue (Jenkins) et tests seraient appréciés
-- Une connaissance de Ruby serait un plus
+- Une connaissance de Python serait un plus
 
 
 <strong>Vous interviendrez sur les projets suivants :</strong>
