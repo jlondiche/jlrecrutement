@@ -1,5 +1,5 @@
 ---
-title: Lead Dev PHP/ Dev PHP Senior
+title: Lead Dev PHP/ Dev PHP Senior<img src="../assets/2015/08/tampon-pourvu.jpg" align="right">
 company: Startup fintech - Beau challenge
 location: Paris Ouest, France
 salary: Selon profil

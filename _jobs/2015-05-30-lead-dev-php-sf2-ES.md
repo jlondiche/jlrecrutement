@@ -1,5 +1,5 @@
 ---
-title: Référent Technique Symfony 2, ElasticSearch
+title: Référent Technique Symfony 2, ElasticSearch<img src="../assets/2015/08/tampon-pourvu.jpg" align="right">
 company: Réseau social innovant
 location: Paris Ouest, France
 salary: 55-65K€

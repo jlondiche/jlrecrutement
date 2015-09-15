@@ -1,5 +1,5 @@
 ---
-title: Administrateur Système - Orienté DevOps
+title: Administrateur Système - Orienté DevOps<img src="../assets/2015/08/tampon-pourvu.jpg" align="right">
 company: Groupe média
 location: Paris Ouest
 salary: selon profil
