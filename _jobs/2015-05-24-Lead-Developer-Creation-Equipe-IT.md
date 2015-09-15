@@ -15,13 +15,13 @@ L’objectif est d’internaliser le service IT en embauchant dans un premier te
 
 <strong>Votre mission</strong>
 
-Participer aux développements des sites (framework interne et Symfony2) ainsi qu’à la conception des projets
+Participer aux développements des sites (framework interne et Symfony2) ainsi qu’à la conception des projets.
 
 En collaboration avec le directeur technique du groupe, vous serez amené à monter une équipe de développeurs débutants et confirmés.
 
 <strong>Votre profil</strong>
 
-- Applications Web à grande échelle : PHP 5, PPO, MVC.
+- Applications Web à grande échelle : PHP 5, PPO, MVC
 - Mysql
 - GIT (github)
 - Ajax, Javascript, Jquery
@@ -29,11 +29,11 @@ En collaboration avec le directeur technique du groupe, vous serez amené à mon
 
 <strong>Qualités requises</strong>
 
-- Recrutement & animation d’une équipe technique.
-- Vous aimez coder, évoluer dans une atmosphère « start-up » et vous êtes passionné du Web.
-- Vous êtes rigoureux dans la conduite de projets.
-- Vous êtes toujours force de proposition mais savez vous adapter aux contraintes de l’existant. 
-- Vous savez collaborer en bonne intelligence avec les équipes Gestion de projets et Marketing et respectez les délais de livraisons.
+- Recrutement & animation d’une équipe technique
+- Vous aimez coder, évoluer dans une atmosphère « start-up » et vous êtes passionné du Web
+- Vous êtes rigoureux dans la conduite de projets
+- Vous êtes toujours force de proposition mais savez vous adapter aux contraintes de l’existant 
+- Vous savez collaborer en bonne intelligence avec les équipes Gestion de projets et Marketing et respectez les délais de livraisons
 
 <strong>Informations</strong>
 
@@ -41,4 +41,5 @@ En collaboration avec le directeur technique du groupe, vous serez amené à mon
 - Localisation : Paris Centre
 
 A bientôt,
+
 Jeanne LONDICHE
