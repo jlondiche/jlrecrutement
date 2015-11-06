@@ -5,9 +5,59 @@
     <description>JL Recrutement est un cabinet de recrutement indépendant IT spécialisé sur la technologie PHP.</description>
     <link>http://www.jlrecrutement.com/</link>
     <atom:link href="http://www.jlrecrutement.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Sep 2015 14:18:13 +0200</pubDate>
-    <lastBuildDate>Thu, 17 Sep 2015 14:18:13 +0200</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2015 10:04:56 +0100</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2015 10:04:56 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Forum PHP 2015 - Un programme de folie le 23 et 24 novembre !</title>
+        <description>&lt;h4&gt;&lt;strong&gt;L&#39;AFUP frappe très fort avec un line-up de speakers impressionnant !&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2015/11/forumphp.png&quot; alt=&quot;forumphp&quot; /&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Le forum PHP 2015 est l’occasion de fêter comme il se doit les &lt;strong&gt;20 ans du langage&lt;/strong&gt;, les &lt;strong&gt;15 ans de l’association&lt;/strong&gt; et la &lt;strong&gt;sortie de PHP7&lt;/strong&gt;. Un véritable alignement cosmique dans le monde PHP !&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://event.afup.org/forum-php-2015/tickets-inscriptions/&quot;&gt;Pensez à prendre vos places ! &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Côté programme, le timing est parfait pour mettre à l’honneur la sortie de PHP7. Quasi toute la &lt;strong&gt;core team de développeurs de cette version de PHP sera réunie&lt;/strong&gt; : le créateur du langage Rasmus Lerdorf, Zeev Suraski, Ferenc Kovacs, Nikita Popov, Derick Rethans, Remi Collet, Anatol Belski,Kalle Sommer Nielsen, Julien Pauli, Bob Weinand et Pierre Joye seront présents.&lt;/p&gt;
+
+&lt;p&gt;D’autres conférenciers, de renommée internationale, proposeront des conférences sur les performances du langage : Wim Godden, Beau Simensen, Jordi Boggiano… et bien d’autres !&lt;/p&gt;
+
+&lt;p&gt;La &lt;strong&gt;communauté PHP&lt;/strong&gt; est belle, riche et surtout très dynamique. Elle génère de nombreux projets, et l’AFUP a choisi de leur donner carte blanche le mardi 24 novembre. Le temps d’une matinée, le programme vous permettra de découvrir les prochaines versions de Drupal, Prestashop, WordPress, Magento…&lt;/p&gt;
+
+&lt;p&gt;Enfin, des &lt;strong&gt;ateliers&lt;/strong&gt; gratuits de 3h sur des sujets comme Puli, l’agilité ou Pomm et Postgres, des lightning­talks, et une table ronde viendront parfaire un programme bien chargé.&lt;/p&gt;
+
+&lt;p&gt;Le programme complet se trouve &lt;a href=&quot;http://event.afup.org/forum-php-2015/programme/&quot;&gt;ici&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;Du fun et du plaisir pour la communauté&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Le Forum sera également le moment de tisser du lien entre les membres de la communauté avec quelques micro-événements assez sympas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2015/11/haphpy-birthday.png&quot; alt=&quot;haphpy-birthday&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Le premier sera la vidéo collaborative commémorant les 20 ans du langage PHP : &lt;strong&gt;Haphpy Birthday&lt;/strong&gt;. Elle sera diffusée en avant-première lors de la keynote d’ouverture du Forum PHP 2015.&lt;/p&gt;
+
+&lt;p&gt;Le deuxième sera le &lt;strong&gt;Community Drink&lt;/strong&gt; dans la soirée du lundi 23 novembre. L’AFUP paye sa tournée à tous les participants de l’événement. Pensez-y également, fun assuré !&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;Les informations pratiques&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Où : Beffroi de Montrouge - 2 Place Emile Cresp - 92120 Montrouge&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Quand : 23 &amp;amp; 24 novembre&lt;/p&gt;
+
+&lt;p&gt;Le programme : &lt;a href=&quot;http://event.afup.org/forum-php-2015/programme/&quot;&gt;Par ici&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;S’inscrire : &lt;a href=&quot;http://event.afup.org/forum-php-2015/tickets-inscriptions/&quot;&gt;Par là&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;À très bientôt au forum PHP !&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Nov 2015 16:54:21 +0100</pubDate>
+        <link>http://www.jlrecrutement.com/2015/11/15/forum-php-2015.html</link>
+        <guid isPermaLink="true">http://www.jlrecrutement.com/2015/11/15/forum-php-2015.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Apéro PHP - 10 Septembre 2015</title>
