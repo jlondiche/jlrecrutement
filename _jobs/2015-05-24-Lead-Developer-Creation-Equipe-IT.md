@@ -1,7 +1,7 @@
 ---
 title: Lead Developer - Création Équipe IT
 company: Leader de l'information dans le domaine du droit
-location: Paris Centre
+location: Paris 8
 salary: 50-55K€
 ---
 
