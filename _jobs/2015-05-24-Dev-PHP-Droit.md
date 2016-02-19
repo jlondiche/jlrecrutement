@@ -1,44 +1,47 @@
 ---
-title: Lead Developer - Création Équipe IT
+title: Développeur PHP Junior & Senior - Création Équipe IT
 company: Leader de l'information dans le domaine du droit
-location: Paris Centre
-salary: 50-55K€
+location: Paris 8
+salary: 35-45K€
 ---
 
 <strong>Pourquoi rejoindre ce projet ?</strong>
 
-Créé il y a plus de 10 ans, le site est le leader de l'information dans le domaine du droit avec plus de 3 millions de VU/mois. 
+Leader dans le domaine juridique avec plusieurs sites spécialisés, cette plate-forme de mise en relation recherche des développeurs PHP afin de constituer une nouvelle équipe.
 
-Entreprise dynamique et en forte croissance, passée de 25 à 50 salariés en 1 an, et située à Paris centre. 
+Cette équipe aura pour mission de développer un panel de fonctionnalités, tout en maintenant un code de qualité, afin de satisfaire les attentes de plus de 3 millions visiteurs uniques par mois.
 
-L’objectif est d’internaliser le service IT en embauchant dans un premier temps un Lead dev PHP puis des développeurs pour constituer une équipe dans les locaux de Paris.
+En forte croissance, cette plate-forme juridique est un environnement idéal pour développeurs, avec au rendez-vous : problématiques de montée en charge, volumétrie de données, environnement technique complexe et stimulant.
 
 <strong>Votre mission</strong>
 
-Participer aux développements des sites (framework interne et Symfony2) ainsi qu’à la conception des projets.
-
-En collaboration avec le directeur technique du groupe, vous serez amené à monter une équipe de développeurs débutants et confirmés.
+- Développement de nouvelles fonctionnalités
+- Optimisation de l'existant
+- Développer des tests fonctionnels / unitaires
+- Mise en place de l'intégration continue et des best practices
 
 <strong>Votre profil</strong>
 
-- Applications Web à grande échelle : PHP 5, PPO, MVC
-- Mysql
-- GIT (github)
-- Ajax, Javascript, Jquery
-- Maîtriser au moins un Framework MVC
+De formation Bac + 2 à 5 en informatique, vous êtes passionné d’internet et vous avez une expérience de 1 an minimum en environnement PHP.
+
+- Vous aimez coder, évoluer dans une atmosphère « start-up » et vous êtes passionné du Web. 
+- Vous êtes rigoureux 
+- Vous savez vous adapter aux contraintes de l’existant. 
+- Vous respectez les délais de livraisons.
 
 <strong>Qualités requises</strong>
 
-- Recrutement & animation d’une équipe technique
-- Vous aimez coder, évoluer dans une atmosphère « start-up » et vous êtes passionné du Web
-- Vous êtes rigoureux dans la conduite de projets
-- Vous êtes toujours force de proposition mais savez vous adapter aux contraintes de l’existant 
-- Vous savez collaborer en bonne intelligence avec les équipes Gestion de projets et Marketing et respectez les délais de livraisons
+- PHP frameworks : Symfony 1 ou 2 
+- Applications Web à grande échelle : PHP 5,PPO, MVC. 
+- Mysql 
+- GIT (github) 
+- Ajax, Javascript, Jquery 
+- Maîtriser au moins un Framework MVC
 
 <strong>Informations</strong>
 
-- Salaire : 50-55K€
-- Localisation : Paris Centre
+- Salaire : 35-45K€
+- Localisation : Paris 8
 
 A bientôt,
 
