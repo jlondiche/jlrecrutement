@@ -34,32 +34,23 @@ Développeur Web Full Stack, vous travaillerez sur toutes les facettes du projet
 
 <strong>Compétences requises</strong>
 
-Le développeur Full Stack doit maîtriser une multitude d'outils.
+Le développeur Full Stack doit être polyvalent et maîtriser une multitude d'outils.
 
-Technologie
 - Architecture LEPP Linux, Nginx, PostgresSQL 9.1, PHP 5.5
-Back
 - Symfony 2.3 -> migration 2.7
 - Postgres
 - Elasticsearch
 - Redis
 - RabbitMQ
-Front
 - Twitter Bootstrap (custom)
 - JQuery
-Environnement de développement
 - Puppet
 - Vagrant
-Déploiement
 - Capifony
-Tests
 - PHPUnit
 - Behat
-Cache HTTP
 - Varnish
-Versioning
 - Git
-Integration continue
 - Jenkins
 
 <strong>Informations</strong>
