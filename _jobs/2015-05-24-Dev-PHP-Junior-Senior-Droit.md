@@ -1,5 +1,5 @@
 ---
-title: Développeur PHP Junior & Sénior - Création Équipe IT
+title: Développeur PHP Junior & Sénior
 company: Leader de l'information dans le domaine du droit
 location: Paris 8
 salary: 35-45K€
