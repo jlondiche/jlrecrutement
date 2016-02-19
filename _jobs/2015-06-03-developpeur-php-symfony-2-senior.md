@@ -15,6 +15,10 @@ Vous travaillerez sur des sites réputés touchant au contenu, à la vidéo et �
 
 L'équipe technique est composée d'une vingtaine de personnes. Votre manager sera une personne expérimentée avec de fortes connaissances en Web et une réelle expertise en Gestion de projet.
 
+Technos utilisés :
+
+
+
 <strong>Opportunité à ne pas manquer</strong>
 
 - Possibilité de formation pour accroître votre expertise technique, participation aux évènements/conférences techniques.
@@ -40,11 +44,15 @@ Vous possédez une belle expérience en Symfony2 sur un site à fort trafic dans
 
 <strong>Environnement technique</strong>
 
-PHP (MVC, design patterns, profiling) en environnement complexe (ferme multi-serveurs, cache, nombreuses applications)
-MySQL (PostgreSQL apprécié), Memcached, Redis, Virtuoso
-JavaScript (jQuery, sélecteurs CSS, DOM)
-git
+- PHP (MVC, design patterns, profiling) en environnement complexe (ferme multi-serveurs, cache, nombreuses applications)
+- MySQL (PostgreSQL apprécié), Memcached, Redis, Virtuoso
+- JavaScript (jQuery, sélecteurs CSS, DOM)
+- git
+- backbone / jQuery
+- Sf2
+- RabbitMQ
 
+L'environnement technique est orienté Open-Source.
 <strong>Avantages</strong>
 
 Salaire : 42-48KEUR + Plan de Participation + RTT + Mutuelle + Tickets Restaurant + CE + Prime de vacances 
