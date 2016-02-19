@@ -15,10 +15,6 @@ Vous travaillerez sur des sites réputés touchant au contenu, à la vidéo et �
 
 L'équipe technique est composée d'une vingtaine de personnes. Votre manager sera une personne expérimentée avec de fortes connaissances en Web et une réelle expertise en Gestion de projet.
 
-Technos utilisés :
-
-
-
 <strong>Opportunité à ne pas manquer</strong>
 
 - Possibilité de formation pour accroître votre expertise technique, participation aux évènements/conférences techniques.
