@@ -49,6 +49,7 @@ Vous possédez une belle expérience en Symfony2 sur un site à fort trafic dans
 - RabbitMQ
 
 L'environnement technique est orienté Open-Source.
+
 <strong>Avantages</strong>
 
 Salaire : 42-48KEUR + Plan de Participation + RTT + Mutuelle + Tickets Restaurant + CE + Prime de vacances 
