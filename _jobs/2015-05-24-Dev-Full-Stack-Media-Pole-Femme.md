@@ -1,62 +1,78 @@
 ---
-title: Développeur Full Stack
-company: Réseau social innovant
+title: Développeur Full Stack - Gain d'expérience rapide
+company: Groupe Média
 location: Paris Ouest
-salary: 40-60K€
+salary: 40-50K€
 ---
 
 <strong>Pourquoi rejoindre ce projet ?</strong>
 
-Site de mise en relation entre voisins, ce réseau social est innovant de par son approche et son positionnement. 
-
-Cette originalité fonctionne et lui a permis de convaincre déjà plus de 100 000 utilisateurs !
-
-Ce réseau social français est à la recherche d’un développeur web Full Stack passionné par la technique.
-En effet, l’environnement de ce site est complexe et requiert un profil très technophile, à l’aise avec une multitude d’outils de développement web.
+L’un des groupes leaders de l’information en France recherche un Développeur Symfony 2 Full Stack pour faire face à leurs nombreux défis à venir.
+ 
+Migration Symfony, Refonte totale du BO, problématiques de montées en charge et de caching...Tous les challenges les plus stimulants sont au rendez-vous.
+ 
+L’équipe recherche une tête bien faite, capable de prendre des décisions mais aussi prêt à proposer toute amélioration visant à optimiser le workflow de l’équipe.
+ 
+Les avantages de ce job sont également stimulants => voir en bas de page !
 
 <strong>Votre mission</strong>
 
-Développeur Web Full Stack, vous travaillerez sur toutes les facettes du projet : UI, PHP, Database, Search Engine, Broker Engine, Cache.
+Missions long terme
+ 
+- Refonte du back-office : mission critique car toutes les rédactrices utilisent le back-office en interne. Le back-office doit donc être une formule 1 capable de supporter une multitude d’actions au même moment.
+- Migration de PHP 5.5 vers PHP7
+- Une migration vers Sf2 est également planifiée
+ 
+Fonctionnalités
+ 
+- Création d’un moteur de recherche à facette
+- Projet Big Data : objectif de pouvoir suivre un utilisateur, savoir ce qu’il aime, connaître ses envies et lui proposer des actions selon son parcours sur le site
+- Changer et améliorer le player vidéo pour un affichage optimisé des vidéos
+- Projet de dashboard analytics interne pour mieux cerner les utilisateurs
+- Objectif d’augmentation de trafic avec toutes ces nouvelles fonctionnalités
+- Refonte de l’API
+ 
+Caching
+ 
+En intégrant cette société, vous développerez de manières intensive vos compétences en cache, notamment avec VARNISH et AKAMAI.
 
-- Refonte/Migration nouvelle version.
-- Implémentation fonctionnalités riches
-- Maintenance (bugs, refactorisation)
-- Performance
+En effet, le caching est utilisé de façon très poussée afin de contrôler le fort trafic des différents sites. L’objectif est de réduire le nombre de serveurs utilisés en optimisant l’utilisation du caching.
 
-<strong>Votre profil</strong>
+<strong>Environnement technique</strong>
 
-- Autonome
-- Esprit vif
-- Capacité d’adaptation
-- Au courant des dernières innovations en termes de développement
-- Capable de proposer des amélioration/optimisations à chaque étape de développement
-- Curieux de participer à l’émergence d’un nouveau type de réseau social
-
-<strong>Compétences requises</strong>
-
-Le développeur Full Stack doit être polyvalent et maîtriser une multitude d'outils.
-
-- Architecture LEPP Linux, Nginx, PostgresSQL 9.1, PHP 5.5
-- Symfony 2.3 -> migration 2.7
-- Postgres
-- Elasticsearch
-- Redis
-- RabbitMQ
-- Twitter Bootstrap (custom)
-- JQuery
-- Puppet
-- Vagrant
-- Capifony
-- PHPUnit
+- AngularJS
+- NodeJS
+- Jira
+- Gitlab
+- Bitbucket
 - Behat
-- Varnish
-- Git
 - Jenkins
 
-<strong>Informations</strong>
+<strong>Avantages Tech</strong>
 
-- Salaire : 40-60K€
-- Localisation : Paris Ouest
+Cellule R&D
+ 
+- Temps dédié à la cellule R&D
+ 
+Techshare
+ 
+- Meeting de devs 1x/semaine sur un sujet précis 
+- Meetup interne avec des experts
+
+<strong>Avantages RH </strong>
+ 
+- !!6 SEMAINES DE CONGÉS (normalement 5)!!
+- 15 RTT/an
+- Participation (équivalent environ un mois de salaire)
+- Salle de sport: 200 euros/an + remboursement du CE autour de 20 euros.
+- Contrat de 35h
+- Mutuelle d'entreprise
+- C.E (places de cinéma, remboursement de spectacles)
+- Remboursement à 50% du titre de transport ou place de parking
+- Abonnement de 4 magazines offerts/an
+- - Salles de repos, baby-foot
+Organisation d'une soirée jeux de société par mois
+
 
 À bientôt,
 
