@@ -70,7 +70,7 @@ Techshare
 - C.E (places de cinéma, remboursement de spectacles)
 - Remboursement à 50% du titre de transport ou place de parking
 - Abonnement de 4 magazines offerts/an
-- - Salles de repos, baby-foot
+- Salles de repos, baby-foot
 Organisation d'une soirée jeux de société par mois
 
 
