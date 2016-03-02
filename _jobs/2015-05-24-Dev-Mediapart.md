@@ -1,6 +1,6 @@
 ---
-title: Développeur PHP/Symfony2
-company: Journal indépendant
+title: Développeur PHP/Symfony2 - Journal Indépendant
+company: Mediapart
 location: Paris Centre
 salary: environ 50K€ selon profil
 ---
