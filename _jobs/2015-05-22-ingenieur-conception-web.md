@@ -1,6 +1,6 @@
 ---
 title: Ingénieur Conception & Développement Web
-company: Éditeur de Logiciels
+company: Logiciels open source
 location: Paris 9
 salary: 40-50K€
 ---

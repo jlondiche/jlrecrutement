@@ -1,19 +1,19 @@
 ---
 title: Adminsys et réseaux - Projet Open Source
-company: PLate-forme TV
+company: Plate-forme TV innovante
 location: Paris 9
 salary: 40-50K€
 ---
 
 <strong>Pourquoi rejoindre ce projet ?</strong>
 
-Challenge et Niveau technique élevé garanti.
+Challenge et Niveau technique élevé garantis.
 
 CDI, basé à côté de Saint Lazare, Salaire intéressant, et PARTS !!!
 
 L'entreprise a été créée par des personnes connues et reconnues en France et la presse est très à l'écoute de ce projet.
 
-=> C'est le genre de poste qui peut changer une carrière, peut être même une vie si vous arrivez tôt avec des parts !
+<strong>=> C'est le genre de poste qui peut changer une carrière, peut être même une vie si vous arrivez tôt avec des parts !</strong>
 
 <strong>Votre mission</strong>
 

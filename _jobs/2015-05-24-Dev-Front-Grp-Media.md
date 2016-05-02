@@ -1,5 +1,5 @@
 ---
-title: Développeur Front JavaScript + Facette Scrum Master
+title: Développeur Front JavaScript / ReactJS
 company: Groupe Média
 location: Paris Ouest
 salary: 40-50K€
@@ -15,13 +15,11 @@ Les avantages de ce job sont également stimulants => voir en bas de page !
 
 Vous recherchez une entreprise innovante avec un excellent niveau technique ?
 
-Vous prendrez en main la partie SCRUM MASTER pour organiser la production et gérer les tâches.
-
 Expérience web de 2 ans min, personnelle ou professionnelle de sites grand public à forte charge.
 
 Compétences 
 - Bon niveau en JS 
-- Connaissances perso ou pro sur minimum un framework React, Angular 
+- Connaissances perso ou pro sur minimum un framework ReactJS, AngularJS 
 - Très bon niveau en HTML/CSS
 
 <strong>Vos missions</strong>
@@ -31,8 +29,6 @@ Compétences
 - Créer des modules réutilisables en javascript, projet sur de la recommandation à réaliser from scratch.
 - Faire la maintenance et l’évolution des sites du groupe, très forte contraitntes techniques.
 - Faire de la veille technologique.
-
-<strong>Environnement technique</strong>
 
 <strong>Equipe</strong> 
 - 2 dév + 2 freelances + Collaboration étroite avec UX, designers et intégrateurs.
@@ -63,7 +59,7 @@ Techshare
 - Remboursement à 50% du titre de transport ou place de parking
 - Abonnement de 4 magazines offerts/an
 - Salles de repos, baby-foot
-Organisation d'une soirée jeux de société par mois
+- Organisation d'une soirée jeux de société par mois
 
 
 À bientôt,

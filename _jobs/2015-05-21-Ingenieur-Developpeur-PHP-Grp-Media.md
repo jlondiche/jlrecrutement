@@ -29,13 +29,11 @@ En effet, le caching est utilisé de façon très poussée afin de contrôler le
 
 <strong>Environnement technique</strong>
 
-- AngularJS
-- NodeJS
-- Jira
-- Gitlab
-- Bitbucket
-- Behat
-- Jenkins
+- Modélisation et POO, designs patterns
+- Architecture scalable (cache, cdn, memcache, redis)
+- Bases de données : mysql, modélisation, requêtes, optimisations
+- Langages : PHP5, html, css3, JS
+- Outils de versionning
 
 <strong>Avantages Tech</strong>
 
