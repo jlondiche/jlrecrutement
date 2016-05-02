@@ -1,19 +1,19 @@
 ---
 title: Adminsys et réseaux - Projet Open Source
-company: Éditeur de logiciels
+company: PLate-forme TV
 location: Paris 9
 salary: 40-50K€
 ---
 
 <strong>Pourquoi rejoindre ce projet ?</strong>
 
-L’environnement du logiciel libre est votre philosophie et vous souhaitez participer au développement d’une solution Open Source leader dans son domaine ?
+Challenge et Niveau technique élevé garanti.
 
-Entreprise à taille humaine avec plus de 15 ans d'expertise recherche un développeur Core / Back-end pour travailler sur une app totalement web très riche.
+CDI, basé à côté de Saint Lazare, Salaire intéressant, et PARTS !!!
 
-Contexte d’internationalisation et d'une levée de fonds, vous aurez la possibilité d'évoluer rapidement avec des réévaluations salariales régulières.
+L'entreprise a été créée par des personnes connues et reconnues en France et la presse est très à l'écoute de ce projet.
 
-L'objectif de l'équipe IT est de créer une plate-forme innovante et performante tout en prenant du plaisir à le faire !
+=> C'est le genre de poste qui peut changer une carrière, peut être même une vie si vous arrivez tôt avec des parts !
 
 <strong>Votre mission</strong>
 
