@@ -15,7 +15,7 @@ Vous serez le bras droit du CTO au sein d'une équipe IT de 7 personnes. Vous l'
 
 Vous avez une vision suffisamment macro pour isoler les fonctionnalités, les sortir en service avec des technologies neuves tout en maintenant le code existant.
 
-Voila le périmètre et les enjeux du poste: 
+Profil recherché : 
 - Toujours opérationnel 
 - Expérience sur beaucoup de technos, (jusqu'à la production) mais utilisation à bon escient 
 - Prise de décision et management 
@@ -24,9 +24,9 @@ Voila le périmètre et les enjeux du poste:
 - Réflexions techniques en cours et à venir : algo, big data, machine learning, e-commerce, réseau social...
 
 <strong>Organisation :</strong>
-1 MEP / semaine 
-1 journée R&D par semaine par développeur. 
-équipe IT divisée en 2 équipes : projet et produit avec un roulement régulier pour éviter l'usures
+- 1 MEP / semaine 
+- 1 journée R&D par semaine par développeur
+- équipe IT divisée en 2 équipes : projet et produit avec un roulement régulier pour éviter l'usures
 
 <strong>Vos missions seront de :</strong>
 
