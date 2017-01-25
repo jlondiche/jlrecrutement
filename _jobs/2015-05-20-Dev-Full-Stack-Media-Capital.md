@@ -1,5 +1,5 @@
 ---
-title: Développeur Full Stack - Flux boursiers importants
+title: Développeur PHP / Symfony3 - Refonte site fort trafic
 company: Groupe Média
 location: Paris Ouest
 salary: 40-50K€
@@ -7,7 +7,7 @@ salary: 40-50K€
 
 <strong>Pourquoi rejoindre ce projet ?</strong>
 
-L’un des groupes leaders de l’information boursière en France recherche un Développeur Symfony 2 Full Stack pour faire face à leurs nombreux défis à venir.
+L’un des groupes leaders de l’information boursière en France recherche un Développeur Symfony 3 pour travailler en équipe sur une refonte importante du site.
 
 Vous êtes à l’aise avec le développement itératif et vous embrassez les philosophies <strong>KISS</strong> et <strong>YAGNI</strong>.
 
@@ -23,7 +23,6 @@ Les avantages de ce job sont également stimulants => voir en bas de page !
 - Vous arbitrerez vos développements afin de trouver un juste équilibre entre code « parfait » et respect des délais,
 - Vous participerez à la conception produit et serez force de proposition.
  
-Caching
  
 En intégrant cette société, vous développerez de manières intensive vos compétences en cache, notamment avec VARNISH et AKAMAI.
 
@@ -31,9 +30,10 @@ En intégrant cette société, vous développerez de manières intensive vos com
 
 Excellent niveau en PHP
 POO et design patterns
+Première expérience en Symfony3 / Doctrine
 MySQL et requêtes optimisées
 JavaScript
-Un petit + : Goût et expérience pour le développement frontend
+Un petit + : Goût et expérience pour le développement JavaScript
 
 <strong>Avantages Tech</strong>
 
@@ -49,7 +49,7 @@ Techshare
 <strong>Avantages RH </strong>
  
 - !!6 SEMAINES DE CONGÉS (normalement 5)!!
-- 15 RTT/an
+- + 15 RTT/an
 - Participation (équivalent environ un mois de salaire)
 - Salle de sport: 200 euros/an + remboursement du CE autour de 20 euros.
 - Contrat de 35h
