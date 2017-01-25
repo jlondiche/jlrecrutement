@@ -35,6 +35,7 @@ L'objectif de l'équipe IT est de créer une plate-forme innovante et performant
 - Ecosystème Amazon (EC2, S3, ...)
 - Message Queuing (RabbitMQ, SQS ou autre)
 - Intégration continue (Travis, Circle)
+- Silex et/ou Symfony
 
 <strong>Modalités</strong>
 
