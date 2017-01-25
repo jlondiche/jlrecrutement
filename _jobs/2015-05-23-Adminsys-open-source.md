@@ -1,40 +1,43 @@
 ---
-title: Adminsys et réseaux - Projet Open Source
-company: Plate-forme TV innovante
-location: Paris 9
-salary: 40-50K€
+title: Lead developpeur R&D
+company: Réseau social d'anciens élèves & entreprises
+location: Paris 10
+salary: 60/65K€
 ---
 
 <strong>Pourquoi rejoindre ce projet ?</strong>
 
-Challenge et Niveau technique élevé garantis.
-
-CDI, basé à côté de Saint Lazare, Salaire intéressant, et PARTS !!!
-
-L'entreprise a été créée par des personnes connues et reconnues en France et la presse est très à l'écoute de ce projet.
-
-<strong>=> C'est le genre de poste qui peut changer une carrière, peut être même une vie si vous arrivez tôt avec des parts !</strong>
-
-<strong>Votre mission</strong>
-
-Missions long terme
+Vous serez le bras droit du CTO au sein d'une équipe IT de 7 personnes. Vous l'aiderez à prendre en main des sujets R&D et à animer l'équipe technique.
  
-Vos principales tâches seront de :
+- Entreprise investissant beaucoup dans la technique 
+- CTO est un des meilleurs architectes parisiens 
+- entreprise française avec une présence à l'international
 
-- Contribuer à la mise en production et l’exploitation de la plateforme et des services
-- Etre force de proposition afin d’améliorer la stabilité et la qualité
-- Qualifier et sélectionner les nouvelles technologies à implémenter
-- Produire les livrables liés à l’administration et l’exploitation des systèmes
-- Réaliser des analyses de faisabilité techniques
-- Anticiper les besoins, les problématiques et pérenniser l’activité
-- Améliorer des processus de déploiement continu
+Vous avez une vision suffisamment macro pour isoler les fonctionnalités, les sortir en service avec des technologies neuves tout en maintenant le code existant.
 
-<strong>Environnement technique</strong>
+Voila le périmètre et les enjeux du poste: 
+- Toujours opérationnel 
+- Expérience sur beaucoup de technos, (jusqu'à la production) mais utilisation à bon escient 
+- Prise de décision et management 
+- Compréhension des enjeux fonctionnels du produit 
+- Aide sur organisation de l'équipe, des process et des méthodes 
+- Réflexions techniques en cours et à venir : algo, big data, machine learning, e-commerce, réseau social...
 
-- LEMP, Haproxy, Squid/Varnish, Ansible, Nagios, CI, Elasticsearch, AMQP
-- Windows Active Directory
-- TCP/IP, VLAN
-- ESXi
+<strong>Organisation :</strong>
+1 MEP / semaine 
+1 journée R&D par semaine par développeur. 
+équipe IT divisée en 2 équipes : projet et produit avec un roulement régulier pour éviter l'usures
+
+<strong>Vos missions seront de :</strong>
+
+- Lancer, Animer et Gérer des chantiers de R&D
+- Découper progressivement la version actuelle vers une approche service API, création de nouvelles briques optimisées tout en maintenant le code historique
+- Concevoir des bases de données très poussées en SQL et NoSQL
+- Manager l'équipe IT
+
+<strong>Environnement technique :</strong>
+
+PHP / MySQL / JS / RabbitMQ / Redis / ElasticSearch / Python
 
 À bientôt,
 
