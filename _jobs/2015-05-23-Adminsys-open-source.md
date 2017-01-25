@@ -15,18 +15,22 @@ Vous serez le bras droit du CTO au sein d'une équipe IT de 7 personnes. Vous l'
 
 Vous avez une vision suffisamment macro pour isoler les fonctionnalités, les sortir en service avec des technologies neuves tout en maintenant le code existant.
 
-Profil recherché : 
-- Toujours opérationnel 
-- Expérience sur beaucoup de technos, (jusqu'à la production) mais utilisation à bon escient 
-- Prise de décision et management 
-- Compréhension des enjeux fonctionnels du produit 
-- Aide sur organisation de l'équipe, des process et des méthodes 
-- Réflexions techniques en cours et à venir : algo, big data, machine learning, e-commerce, réseau social...
+<strong>Profil recherché :</strong>
+<ul>
+<li>Toujours opérationnel</li>
+<li>Expérience sur beaucoup de technos, (jusqu'à la production) mais utilisation à bon escient</li>
+<li>Prise de décision et management</li>
+<li>Compréhension des enjeux fonctionnels du produit</li>
+<li>Aide sur organisation de l'équipe, des process et des méthodes</li>
+<li>Réflexions techniques en cours et à venir : algo, big data, machine learning, e-commerce, réseau social...</li>
+</ul>
 
 <strong>Organisation :</strong>
-- 1 MEP / semaine 
-- 1 journée R&D par semaine par développeur
-- équipe IT divisée en 2 équipes : projet et produit avec un roulement régulier pour éviter l'usures
+<ul>
+<li>1 MEP / semaine</li>
+<li>1 journée R&D par semaine par développeur</li>
+<li>équipe IT divisée en 2 équipes : projet et produit avec un roulement régulier pour éviter l'usures</li>
+</ul>
 
 <strong>Vos missions seront de :</strong>
 
