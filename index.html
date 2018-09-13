@@ -1,67 +1,354 @@
 ---
-layout: default
 ---
 
-<div class="container">
-    <div class="row">
-        <div class="col-md-10 col-md-offset-1">
-            <div class="technology">
-                <ul>
-                    <li><i class="technology__icon java"></i></li>
-                    <li><i class="technology__icon python"></i></li>
-                    <li><i class="technology__icon php"></i></li>
-                    <li><i class="technology__icon ruby"></i></li>
-                    <li><i class="technology__icon javascript"></i></li>
-                </ul>
-            </div>
+<html>
 
-            <div class="introduction">
-                <div class="introduction-block">
-                    <h2 class="introduction-block__title">Vous recherchez la perle rare ?</h2>
-                    <p>Spécialisée dans le recrutement IT et très active dans l'écosystème PHP, contactez-moi pour accéder à mon réseau de développeurs qualifiés, compétents et impliqués.</p>
-                </div>
+<head>
+  <title>{{ site.title }}</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <!-- <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,600&amp;subset=latin-ext" rel="stylesheet"> -->
+</head>
 
-                <div class="introduction-block">
-                    <h2 class="introduction-block__title">Vous recherchez le job idéal ?</h2>
-                    <p>Développeurs, gagnez du temps dans vos recherches en comparant les offres d'emploi attractives en CDI à Paris et en IDF.</p>
-                </div>
-            </div>
+<body id="body">
+
+<div class="rows">
+  <div class="row header">
+    <div class="left-column title">
+      <img src="images/logo.svg" class="logo">
+      <h1>Jeanne Londiche</h1>
+      <h2>Indépendante spécialisée en recrutement PHP</h2>
+      <p>
+        <a href="mailto:jeanne@jlrecrutement.com">
+          jeanne@jlrecrutement.com
+        </a>
+        —
+        <a href="tel:+33649356430">06&nbsp;49&nbsp;35&nbsp;64&nbsp;30</a>
+      </p>
+    </div>
+
+    <div class="right-column tagline hide-mobile">
+      <p>
+        <a href="01-jobs.html">
+          J’arrête le recrutement propriétaire, <br />
+          je passe à l’open source !
+        </a>
+      </p>
+    </div>
+  </div>
+
+  <div class="row main-row">
+
+    <div class="left-column hero">
+      <p>
+        Développeurs PHP, <br />
+        passez à l'étape d’après !
+      </p>
+      <p>
+        Consultez le
+        <a href="01-jobs.html">Job Board</a>
+        et <br />
+        <a href="tel:+33649356430">contactez-moi</a>.
+      </p>
+    </div>
+
+    <div class="right-column illustration">
+      <div class="elephant-holder-wrapper">
+        <div class="elephant-holder shadow">
+          <img src="/images/elephant-shadow.svg">
         </div>
+        <div class="elephant-holder ascii">
+          <img src="/images/elephant-ascii.svg" id="elephant-ascii">
+        </div>
+      </div>
     </div>
 
-    <div class="contact-link">
-        <a href="mailto:{{ site.email }}" class="btn btn-primary btn-lg">Contactez-moi</a>
-    </div>
+  </div>
 </div>
 
-
-<div class="testimonials">
-    <div class="container">
-        <h2 class="testimonials__title">Témoignages</h2>
-        <div id="testimonials" class="carousel slide" data-ride="carousel">
-            <div class="carousel-inner" role="listbox">
-                {% for testimonial in site.testimonials %}
-                    <div class="item{% if forloop.first %} active{% endif %}">
-                        <div class="testimonials__content">
-                            <blockquote class="testimonials__txt">
-                                {{ testimonial.content }}
-                            </blockquote>
-                            <div class="testimonials__source">
-                                <span>{{ testimonial.name }}</span>
-                                <em>{{ testimonial.company }}</em>
-                            </div>
-                        </div>
-                    </div>
-                {% endfor %}
-            </div>
-
-            <ol class="carousel-indicators">
-                {% assign count = '-1' %}
-                {% for testimonial in site.testimonials %}
-                    {% capture count %}{{ count | plus: '1' }}{% endcapture %}
-                    <li data-target="#testimonials" data-slide-to="{{ count }}" class="{% if forloop.first %}active{% endif %}"></li>
-                {% endfor %}
-            </ol>
-        </div>
-    </div>
+<div class="tagline hide-desktop">
+  <p>
+    <a href="01-jobs.html">
+      J’arrête le recrutement propriétaire,
+      je passe à l’open source !
+    </a>
+  </p>
 </div>
+
+</body>
+
+<style>
+  @font-face {
+    font-family: "Source Sans Pro";
+    src: url("assets/SourceSansPro-ExtraLight.ttf");
+  }
+  @font-face {
+    font-family: "Source Sans Pro Bold";
+    src: url("assets/SourceSansPro-SemiBold.ttf");
+  }
+
+  html {
+    font-size: 100%;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 200;
+  }
+  body {
+    background-color: #bfd2c8;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  a {
+    color: inherit;
+  }
+
+  .rows {
+    display: flex;
+    flex-direction: column;
+  }
+  .row {
+    display: flex;
+    width: 100%;
+  }
+  .main-row {
+    flex-grow: 1;
+  }
+  .right-column {
+    flex: 1;
+  }
+
+
+  /*  HEADER */
+  .header {
+    line-height: 1.7rem;
+  }
+  .logo {
+    width: 100px;
+    height: 85px;
+    margin-bottom: 1rem;
+  }
+  .header h1, .header h2, .header p {
+    font-size: 1.3rem;
+    font-weight: 200;
+    margin: 0;
+    padding: 0;
+  }
+  .header a {
+    text-decoration: none;
+  }
+  .tagline {
+    text-align: right;
+  }
+  .tagline a:hover {
+    text-decoration: underline;
+  }
+
+  /* MAIN CONTENT */
+  .hero{
+    font-family: 'Source Sans Pro Bold', sans-serif;
+    text-align: right;
+    font-size: 2rem;
+  }
+  .hero a:hover {
+    color: #eff4c1;
+  }
+  .illustration {
+    flex: 1;
+  }
+  .elephant-holder-wrapper {
+    flex: 1;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+  }
+  .elephant-holder.ascii {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  @media screen and (min-width: 600px) {
+    .hide-desktop {
+      display: none;
+    }
+    html, body {
+      height: 100vh;
+      min-height: 600px;
+    }
+    body {
+      padding: 4rem;
+    }
+    .rows {
+      height: 100%;
+    }
+    .illustration {
+      display: flex;
+    }
+    .elephant-holder {
+      flex: 1;
+    }
+    .right-column {
+      padding-left: 20px;
+      min-width: 200px;
+    }
+    .elephant-holder img {
+      display: none;
+    }
+    .elephant-holder.shadow {
+      background: url(/images/elephant-shadow.svg) no-repeat center center;
+      background-size: contain;
+    }
+    .elephant-holder.ascii {
+      background: url(/images/elephant-ascii.svg) no-repeat center center;
+      background-size: contain;
+      opacity: 0;
+    }
+    .illustration:hover .elephant-holder.ascii{
+      opacity: 1;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .row {
+      flex-direction: column;
+    }
+    .hide-mobile {
+      display: none;
+    }
+    .main-row {
+      flex-direction: column-reverse;
+    }
+    body {
+      text-align: center;
+      margin: 1rem;
+    }
+    .header h1, .header h2, .header p, .hero p {
+      font-size: 1rem;
+    }
+    .tagline a {
+      text-decoration: none;
+    }
+    .tagline, .hero {
+      text-align: center;
+    }
+    .hero br {
+      display: none;
+    }
+    .hero p {
+      margin-bottom: 0.5rem;
+      margin-top: 0.5rem;
+    }
+    .illustration {
+      padding-top: 2rem;
+      padding-bottom: 2rem;
+    }
+    img#elephant-ascii {
+      height: 100%;
+      opacity: 0;
+    }
+  }
+</style>
+
+<script type="text/javascript">
+
+// This function changes the background color on each page reload
+(function() {
+
+  // Read cookie
+  function readCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0;i < ca.length;i++) {
+        var c = ca[i];
+        while (c.charAt(0) === ' ') {
+            c = c.substring(1,c.length);
+        }
+        if (c.indexOf(nameEQ) === 0) {
+            return c.substring(nameEQ.length,c.length);
+        }
+    }
+    return null;
+  }
+
+  bgColors = ["#bfd2c8", "#fcc97e", "#becee5"];
+
+  bgColorIdx = readCookie("bgColorIdx");
+  if (bgColorIdx !== null) {
+    bgColorIdx = parseInt(bgColorIdx, 10);
+    bgColorIdx = (bgColorIdx + 1) % bgColors.length;
+  } else {
+    bgColorIdx = 0;
+  }
+  document.cookie = "bgColorIdx=" + bgColorIdx + "; path=/";
+
+  bgColor = bgColors[bgColorIdx];
+  document.getElementById("body").style.backgroundColor = bgColor;
+})();
+
+/* this will update the opacity of the elephant ascii based on mobile scroll */
+(function() {
+  if (window.innerWidth < 600) {
+    function throttle(func, wait, options) {
+      var context, args, result;
+      var timeout = null;
+      var previous = 0;
+      if (!options) options = {};
+      var later = function() {
+        previous = options.leading === false ? 0 : Date.now();
+        timeout = null;
+        result = func.apply(context, args);
+        if (!timeout) context = args = null;
+      };
+      return function() {
+        var now = Date.now();
+        if (!previous && options.leading === false) previous = now;
+        var remaining = wait - (now - previous);
+        context = this;
+        args = arguments;
+        if (remaining <= 0 || remaining > wait) {
+          if (timeout) {
+            clearTimeout(timeout);
+            timeout = null;
+          }
+          previous = now;
+          result = func.apply(context, args);
+          if (!timeout) context = args = null;
+        } else if (!timeout && options.trailing !== false) {
+          timeout = setTimeout(later, remaining);
+        }
+        return result;
+      };
+    };
+
+    /* from http://www.javascriptkit.com/javatutors/detect-user-scroll-amount.shtml */
+    function getDocHeight() {
+        var D = document;
+        return Math.max(
+            D.body.scrollHeight, D.documentElement.scrollHeight,
+            D.body.offsetHeight, D.documentElement.offsetHeight,
+            D.body.clientHeight, D.documentElement.clientHeight
+        )
+    }
+
+    function getScrollPercent() {
+      var winheight= window.innerHeight || (document.documentElement || document.body).clientHeight;
+      var docheight = getDocHeight();
+      var scrollTop = window.pageYOffset || (document.documentElement || document.body.parentNode || document.body).scrollTop;
+      var trackLength = docheight - winheight;
+      return scrollTop/trackLength;
+    }
+
+    function updateOpacity() {
+      document.getElementById("elephant-ascii").style.opacity = getScrollPercent();
+    };
+
+    throttled = throttle(updateOpacity, 100);
+    window.addEventListener('scroll', throttled);
+  }
+})();
+
+</script>
+
+</html>
+
+
