@@ -1,30 +1,367 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>JL Recrutement</title>
+    <description>JL Recrutement est un cabinet de recrutement indépendant IT spécialisé sur la technologie PHP.</description>
+    <link>http://www.jlrecrutement.com/</link>
+    <atom:link href="http://www.jlrecrutement.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 23 Jul 2018 10:33:38 +0000</pubDate>
+    <lastBuildDate>Mon, 23 Jul 2018 10:33:38 +0000</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
+
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Je déménage sur Medium</title>
+        <description>
+          Ce blog ferme ses portes ! merci de maintenant me suivre sur &lt;a href=&quot;https://medium.com/@jlondiche&quot;&gt;Medium&lt;a&gt;. &#192; bient&#244;t !
+        </description>
+        <pubDate>Tue, 18 Sep 2018 13:37:43 +0000</pubDate>
+        <link>https://medium.com/@jlondiche</link>
+        <guid isPermaLink="true">https://medium.com/@jlondiche</guid>
       </item>
-    {% endfor %}
+
+      <item>
+        <title>Forum PHP 2015 - Un programme de folie le 23 et 24 novembre !</title>
+        <description>&lt;h4&gt;&lt;strong&gt;L'AFUP frappe très fort avec un line-up de speakers impressionnant !&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2015/11/forumphp.png&quot; alt=&quot;forumphp&quot; /&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Le forum PHP 2015 est l’occasion de fêter comme il se doit les &lt;strong&gt;20 ans du langage&lt;/strong&gt;, les &lt;strong&gt;15 ans de l’association&lt;/strong&gt; et la &lt;strong&gt;sortie de PHP7&lt;/strong&gt;. Un véritable alignement cosmique dans le monde PHP !&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://event.afup.org/forum-php-2015/tickets-inscriptions/&quot;&gt;Pensez à prendre vos places ! &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Côté programme, le timing est parfait pour mettre à l’honneur la sortie de PHP7. Quasi toute la &lt;strong&gt;core team de développeurs de cette version de PHP sera réunie&lt;/strong&gt; : le créateur du langage Rasmus Lerdorf, Zeev Suraski, Ferenc Kovacs, Nikita Popov, Derick Rethans, Remi Collet, Anatol Belski,Kalle Sommer Nielsen, Julien Pauli, Bob Weinand et Pierre Joye seront présents.&lt;/p&gt;
+
+&lt;p&gt;D’autres conférenciers, de renommée internationale, proposeront des conférences sur les performances du langage : Wim Godden, Beau Simensen, Jordi Boggiano… et bien d’autres !&lt;/p&gt;
+
+&lt;p&gt;La &lt;strong&gt;communauté PHP&lt;/strong&gt; est belle, riche et surtout très dynamique. Elle génère de nombreux projets, et l’AFUP a choisi de leur donner carte blanche le mardi 24 novembre. Le temps d’une matinée, le programme vous permettra de découvrir les prochaines versions de Drupal, Prestashop, WordPress, Magento…&lt;/p&gt;
+
+&lt;p&gt;Enfin, des &lt;strong&gt;ateliers&lt;/strong&gt; gratuits de 3h sur des sujets comme Puli, l’agilité ou Pomm et Postgres, des lightning­talks, et une table ronde viendront parfaire un programme bien chargé.&lt;/p&gt;
+
+&lt;p&gt;Le programme complet se trouve &lt;a href=&quot;http://event.afup.org/forum-php-2015/programme/&quot;&gt;ici&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;Du fun et du plaisir pour la communauté&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Le Forum sera également le moment de tisser du lien entre les membres de la communauté avec quelques micro-événements assez sympas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2015/11/haphpy-birthday.png&quot; alt=&quot;haphpy-birthday&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Le premier sera la &lt;a href=&quot;http://haphpy-birthday.net/&quot;&gt;vidéo collaborative&lt;/a&gt; commémorant les 20 ans du langage PHP : &lt;strong&gt;Haphpy Birthday&lt;/strong&gt;. Elle sera diffusée en avant-première lors de la keynote d’ouverture du Forum PHP 2015.&lt;/p&gt;
+
+&lt;p&gt;Le deuxième sera le &lt;strong&gt;Community Drink&lt;/strong&gt; dans la soirée du lundi 23 novembre. L’AFUP paye sa tournée à tous les participants de l’événement. Pensez-y également, fun assuré !&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;Les informations pratiques&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Où : Beffroi de Montrouge - 2 Place Emile Cresp - 92120 Montrouge&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Quand : 23 &amp;amp; 24 novembre&lt;/p&gt;
+
+&lt;p&gt;Le programme : &lt;a href=&quot;http://event.afup.org/forum-php-2015/programme/&quot;&gt;Par ici&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;S’inscrire : &lt;a href=&quot;http://event.afup.org/forum-php-2015/tickets-inscriptions/&quot;&gt;Par là&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;À très bientôt au forum PHP !&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Nov 2015 15:54:21 +0000</pubDate>
+        <link>http://www.jlrecrutement.com/2015/11/15/forum-php-2015.html</link>
+        <guid isPermaLink="true">http://www.jlrecrutement.com/2015/11/15/forum-php-2015.html</guid>
+
+
+      </item>
+
+      <item>
+        <title>Apéro PHP - 10 Septembre 2015</title>
+        <description>&lt;h4&gt;Quoi de mieux qu'un apéro PHP pour démarrer la rentrée ?&lt;/h4&gt;
+
+&lt;p&gt;Cela faisait un moment que je souhaitais organiser un événement technique et c’est chose faite !&lt;/p&gt;
+
+&lt;p&gt;Préférant les événements informels, &lt;strong&gt;l’apéro PHP&lt;/strong&gt; fut un choix logique, d’autant plus que n’importe qui peut en organiser un. D’ailleurs, chers lecteurs, n’hésitez pas à en organiser pour que nous nous voyons plus souvent !&lt;/p&gt;
+
+&lt;p&gt;Le rendez-vous est pris sur &lt;a href=&quot;http://www.aperophp.net/&quot;&gt;aperophp.net&lt;/a&gt;. Ce sera le 10 septembre chez &lt;strong&gt;Dédé la Frite&lt;/strong&gt;, bar très sympa entre le Sentier et place de la Bourse.&lt;/p&gt;
+
+&lt;p&gt;Bières pas chères, frites-hour, ambiance décalée : ce lieu réunit tous les ingrédients pour une ambiance chaleureuse.&lt;/p&gt;
+
+&lt;p&gt;Ce sont 78 personnes qui se sont inscrites à l’apéro et environ 40 sont venues le jour J.&lt;/p&gt;
+
+&lt;p&gt;Ce fut un &lt;strong&gt;moment très agréable&lt;/strong&gt; : un peu professionnel mais pas trop, des personnes décontractées et des nouvelles rencontres.&lt;/p&gt;
+
+&lt;p&gt;Merci à L’AFUP pour leur participation et leur tournée de frites offerte aux participants.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2015/09/dedelafrite.jpg&quot; alt=&quot;dedelafrite&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2015/09/tablephp.JPG&quot; alt=&quot;tablephp&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2015/09/aperophp.JPG&quot; alt=&quot;aperophp&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2015/09/illustrationphp.png&quot; alt=&quot;illustrationphp&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;PHPlovers, je vous dis à très bientôt pour le prochain événement php !&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 15 Sep 2015 15:54:21 +0000</pubDate>
+        <link>http://www.jlrecrutement.com/2015/09/15/apero-php.html</link>
+        <guid isPermaLink="true">http://www.jlrecrutement.com/2015/09/15/apero-php.html</guid>
+
+
+      </item>
+
+      <item>
+        <title>Darkmira Tour - Juin 2015</title>
+        <description>&lt;p&gt;Le 18 juin avait lieu le &lt;a href=&quot;http://tour.darkmira.fr/&quot;&gt;Darkmira Tour&lt;/a&gt; au sein de l’École Supérieure de Génie Informatique (ESGI).&lt;/p&gt;
+
+&lt;p&gt;Cet événement avait pour but de regrouper la communauté php/zend autour de conférences intéressantes.&lt;/p&gt;
+
+&lt;p&gt;Personnellement, j’ai voulu assister à la conférence de &lt;a href=&quot;https://twitter.com/julienguittard&quot;&gt;Julien Guittard&lt;/a&gt; pour en savoir plus sur les principales fonctionnalités de la nouvelle version de ZF3.&lt;/p&gt;
+
+&lt;p&gt;Après cette présentation, je suis restée pour assiter à la seconde conférence de Julien : Apigility - créez vos API en quelques clics. J’en ai profité pour apprendre les conventions pour bien coder en PHP, notamment avec le respect des normes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2015/06/julien_guittard.jpg&quot; alt=&quot;julien_guittard&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En réunissant les zenders et d’autres membres de la communauté php, le darkmira tour fut riche en rencontres !&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 24 Jun 2015 15:54:21 +0000</pubDate>
+        <link>http://www.jlrecrutement.com/2015/06/24/darkmira-tour.html</link>
+        <guid isPermaLink="true">http://www.jlrecrutement.com/2015/06/24/darkmira-tour.html</guid>
+
+
+      </item>
+
+      <item>
+        <title>SfPot Juin 2015 - @Mozilla</title>
+        <description>&lt;p&gt;C’est avec curiostié que je me suis rendu au SfPot de Juin hébergé par…Mozilla !&lt;/p&gt;
+
+&lt;p&gt;Au sein d’un ancien hôtel particulier, les locaux sont merveilleux et sont une belle vitrine pour la fondation !&lt;/p&gt;
+
+&lt;p&gt;Vous pouvez en juger par vous-même :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2015/06/sfpot.jpg&quot; alt=&quot;sfpot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Concernant l’évenement, nous avons assisté à deux superbes conférences.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Retour d’expérience sur la création d’une timeline avec Symfony&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Speaker : Matthieu Auger&lt;/p&gt;
+
+&lt;p&gt;Vous pouvez retrouver son slide deck &lt;a href=&quot;http://slides.com/matthieuauger/deck#/&quot;&gt;ici&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Tristan Roussel nous a parlé des translations avancées avec sa présentation “Lost in Localization”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Speaker : Tristan Roussel&lt;/p&gt;
+
+&lt;p&gt;Vous pouvez retrouver son slide deck &lt;a href=&quot;http://slides.com/triii007/lost-in-localization/#/&quot;&gt;ici&lt;/a&gt;. Retrouvez également son projet d’exemple sur &lt;a href=&quot;https://github.com/Triiistan/LostInLocalization&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Encore une fois, j’invite tous mes candidats à se rendre à ces événements très intéressants.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 Jun 2015 20:54:21 +0000</pubDate>
+        <link>http://www.jlrecrutement.com/2015/06/18/SFpot-mozilla.html</link>
+        <guid isPermaLink="true">http://www.jlrecrutement.com/2015/06/18/SFpot-mozilla.html</guid>
+
+
+      </item>
+
+      <item>
+        <title>Remerciements Mediapart et CCM Benchmark</title>
+        <description>&lt;p&gt;JL Recrutement a été cité au PHP Tour du Luxembourg dans 2 conf’.&lt;/p&gt;
+
+&lt;p&gt;Merci à Etienne SAMSON de Mediapart et Xavier LEUNE de CCM Benchmark pour leur confiance.&lt;/p&gt;
+
+&lt;p&gt;Voici les deux vidéos :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Attention chérie, ça va trancher&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Speakers : Étienne Samson, Bastien Jaillot&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; align=&quot;center&quot; src=&quot;https://www.youtube.com/embed/8j_LprxGYbA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Migrer de framework : de la réflexion à l’action&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Speaker : Xavier Leune&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; align=&quot;center&quot; src=&quot;https://www.youtube.com/embed/zHtLFAsA24s&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;Voici également &lt;a href=&quot;https://www.youtube.com/playlist?list=PL9zDdgiGjkIc_1wnKTdU68dmVZ77ayPwW&quot;&gt;le lien&lt;/a&gt; pour revoir les conférences qui ont eu lieu au PHP Tour Luxembourg via la chaîne youtube de l’AFUP.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 02 Jun 2015 20:54:21 +0000</pubDate>
+        <link>http://www.jlrecrutement.com/2015/06/02/remerciements-mediapart-ccm-benchmark-copie.html</link>
+        <guid isPermaLink="true">http://www.jlrecrutement.com/2015/06/02/remerciements-mediapart-ccm-benchmark-copie.html</guid>
+
+
+      </item>
+
+      <item>
+        <title>Apéro Communautaire PHP Tour Luxembourg 2015</title>
+        <description>&lt;p&gt;Un des meilleurs moments, l’apérooo !!&lt;/p&gt;
+
+&lt;p&gt;Nous nous sommes tous retrouvés au Scott’s pub, juste à côté de l’Abbaye pour discuter de cette première journée de conférences.&lt;/p&gt;
+
+&lt;p&gt;C’était très agréable. Organisés par Vesperia et Ike, nous avions une surprise à la clef : le gâteau PHP pour les 15 ans de l’AFUP Et surtout les 20 ans de PHP !&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2015/06/anniv-php.png&quot; alt=&quot;anniv-php&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;J’ai pu manger l’oeil du gros éléphant…et il était très bon.&lt;/p&gt;
+
+&lt;p&gt;On attend le Forum PHP pour voir comment sera le gâteau là bas ! :)&lt;/p&gt;
+</description>
+        <pubDate>Fri, 15 May 2015 20:54:21 +0000</pubDate>
+        <link>http://www.jlrecrutement.com/2015/05/15/php-tour-apero.html</link>
+        <guid isPermaLink="true">http://www.jlrecrutement.com/2015/05/15/php-tour-apero.html</guid>
+
+
+      </item>
+
+      <item>
+        <title>PHP Tour Luxembourg 2015</title>
+        <description>&lt;p&gt;JL Recrutement est allé au PHP Tour Luxembourg qui se trouvait dans l’Abbaye de Neumunster, un endroit magnifique.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2015/06/PHP-Tour.png&quot; alt=&quot;PHP-Tour&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;L’évènement a regroupé plus de 200 personnes et était organisé par l’AFUP France + Afup Luxembourg/ Important de préciser que c’était le premier PHP Tour a se dérouler hors France. La communauté PHP s’agrandit et les participants suivent, c’est super !&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2015/06/Programme-PHP-Tour.JPG&quot; alt=&quot;Programme-PHP-Tour&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Le programme de ces 2 jours étaient intense, j’ai pu assister à quelques conférences dont :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Frameworks: A history of Violence&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;De François Zaninotto,  un vrai showman, c’était super et très accessible.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Attention chérie ça va trancher&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Etienne SAMSON (Mediapart) et Bastien JAILLOT (JoliCode) ont fait etour d’expérience mais plus sur l’aspect conduite du changement. Conférence très intéressante et apprécié par le public de dévelopeurs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Sauf erreur, je ne me trompe jamais&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;De Frédéric BOUCHERY (CCM Benchmark). Le titre m’a beaucoup plus et je n’ai pas été déçu mais c’était, pour moi qui ne suis pas une vraie technique, plus difficilement accessible.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2015/06/conf-php-tour.png&quot; alt=&quot;conf-php-tour&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pour la seconde journée, j’ai du malheureusement rentrer à Paris pour des rendez-vous mais point important, lors de la clotûre du Forum, l’Afup nous a dévoilé son nouveau logo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2015/06/nouveau-logo-afup.png&quot; alt=&quot;nouveau-logo-afup&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 15 May 2015 15:54:21 +0000</pubDate>
+        <link>http://www.jlrecrutement.com/2015/05/15/php-tour-2015.html</link>
+        <guid isPermaLink="true">http://www.jlrecrutement.com/2015/05/15/php-tour-2015.html</guid>
+
+
+      </item>
+
+      <item>
+        <title>Symfony Live 2015</title>
+        <description>&lt;p&gt;Pour ma première participation à un Symfony Live, je fus impressionné par la qualité de l’événement.&lt;/p&gt;
+
+&lt;p&gt;J’ai profité de l’occasion pour voir enfin Fabien Potencier en tant que speaker.&lt;/p&gt;
+
+&lt;p&gt;Conférence intéressante car Fabien a annoncé l’arrivée de Symfony 3 et la date et le lieu de la SymfonyCon !&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2015/06/symfony-live-2015.png&quot; alt=&quot;symfony-live-2015&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 10 Apr 2015 15:54:21 +0000</pubDate>
+        <link>http://www.jlrecrutement.com/2015/04/10/Symfony-live.html</link>
+        <guid isPermaLink="true">http://www.jlrecrutement.com/2015/04/10/Symfony-live.html</guid>
+
+
+      </item>
+
+      <item>
+        <title>sfPot Sensiolabs - Mars 2015</title>
+        <description>&lt;p&gt;Pour avril 2015, le sfPot a été organisé par SensioLabs. Il y avait 100 inscrits et 3 conférences :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;FriendlyContext et tips Behat 3&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;De Maxime Veber&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Micro services et leur intégration chez BlaBlaCar&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;De Olivier Dobeau&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Outil Blackfire&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;De Sensiolabs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Comme d’habitude, nous avons enchainé sur l’apéro pizza et là que vois-je : la collection de SensioLabs…Ils ont un peu d’avance mais je ne suis pas loin ! Prochain voyage aux USA ?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2015/06/collection-elephpant-sensiolabs.png&quot; alt=&quot;collection-elephpant-sensiolabs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;À tous mes candidats, ces conférences sont vraiment intéressantes !&lt;/p&gt;
+
+&lt;p&gt;Si vous développez en Symfony2 et souhaitez nourrir votre soif d’apprentissage, je vous conseille de participer à ces événements.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 20 Mar 2015 15:54:21 +0000</pubDate>
+        <link>http://www.jlrecrutement.com/2015/03/20/sfPot-Sensiolabs.html</link>
+        <guid isPermaLink="true">http://www.jlrecrutement.com/2015/03/20/sfPot-Sensiolabs.html</guid>
+
+
+      </item>
+
+      <item>
+        <title>Forum PHP 2014</title>
+        <description>&lt;p&gt;Les 23 et 24 octobre avaient lieu le forum PHP 2014 à Paris. Événement incontournable pour la &lt;strong&gt;communauté PHP&lt;/strong&gt;, JL Recrutement était présent afin d’être au courant des dernières nouveautés de notre langage préféré et rencontrer les entreprises et développeurs impliqués dans la communauté !&lt;/p&gt;
+
+&lt;p&gt;JL Recrutement s’est rendu à plusieurs conférences très intéressantes dont voici une liste non-exhaustive : Olivier DOLBEAU de Blablacar avec Laisse pas trainer ton log, Marc Hugon de Maison du Monde avec un retour d’expérience sur les tests fonctionnels de chez Maison du Monde. Pour avoir une place, il fallait arriver tôt, les sièges étaient pris d’assaut.&lt;/p&gt;
+
+&lt;p&gt;J’ai d’ailleurs loupé la conférence de Sébastien ANGELE et Nicolas SILBERMAN concernant l’industrialisation des environnements de dev avec Puppet et Amazon de Groupe Express Roularta.&lt;/p&gt;
+
+&lt;p&gt;Nous avons eu plein de goodies :) : l’agence jolicode et ses lunettes, gandi et ses t-shirts, LE bilboquet de Monsieur Biz / Jacques Bodin-Hullin…&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Bref l’ambiance était vraiment très sympa et on y rencontre les leaders communautaires, des développeurs confirmés et des grands noms du web. L’événement confirme son statut de regroupement immanquable pour tous les fans de PHP.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;L’événement bat son plein durant l’après-midi et &lt;strong&gt;JL Recrutement&lt;/strong&gt; continue à faire des rencontres avec des développeurs placés depuis un moment et d’autres qui souhaitent avoir des informations sur le marché (salaires, qui recrute, etc).&lt;/p&gt;
+
+&lt;p&gt;La fin de l’événement fut marqué par le karoké slide animé par Dits Kenny de M6 : le jeu est d’improviser un mini-discours avec des images qui s’affichent à l’écran (un robot, un chien, etc) ! La difficulté étant bien sûr de créer un lien entre toutes les images :) Bravo aux volontaires, on a bien rigolé !&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2015/06/slideshow-php-tour.jpg&quot; alt=&quot;slideshow-php-tour&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;La première journée s’est terminée avec l’apéro communautaire très réussi, toujours avec une superbe ambiance et encore beaucoup de monde !
+La conclusion de cette journée est que la &lt;strong&gt;communauté française PHP&lt;/strong&gt; se porte bien avec de nombreux projets prometteurs mais surtout de plus en plus de développeurs qui utilisent le langage, et ça c’est une bonne nouvelle pour l’environnement tech français.&lt;/p&gt;
+
+&lt;p&gt;En attendant le PHP Tour, JL Recrutement sera présent aux évènements parisiens : Sfpot, Paris Tech Talk…&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 30 Oct 2014 15:54:21 +0000</pubDate>
+        <link>http://www.jlrecrutement.com/2014/10/30/forum-php-2014.html</link>
+        <guid isPermaLink="true">http://www.jlrecrutement.com/2014/10/30/forum-php-2014.html</guid>
+
+
+      </item>
+
   </channel>
 </rss>

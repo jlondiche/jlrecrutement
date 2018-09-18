@@ -1,43 +1,182 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
+
 @charset "utf-8";
 
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url("/assets/SourceSansPro-ExtraLight.ttf");
+}
+@font-face {
+  font-family: "Source Sans Pro Bold";
+  src: url("/assets/SourceSansPro-SemiBold.ttf");
+}
 
-// Utilities
-// --------------------------------------------------------------------------
+html {
+  font-size: 100%;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 200;
+}
+body {
+  background-color: #bfd2c8;
+  margin: 0;
+  box-sizing: border-box;
+}
+a {
+  color: inherit;
+}
 
-@import "utilities/normalize";
-@import "utilities/variables";
-@import "utilities/utilities";
+.columns {
+  display: flex;
+}
+.column {
+  display: flex;
+  flex-direction: column;
+}
 
+/*  Title & Tagline */
+.title h1, .title h2, .title p, .tagline {
+  font-size: 1.3rem;
+  font-weight: 200;
+  margin: 0;
+  padding: 0;
+}
+.title a, .tagline a {
+  text-decoration: none;
+}
+.tagline {
+  text-align: right;
+}
+.tagline a:hover {
+  text-decoration: underline;
+}
 
-// Atoms
-// --------------------------------------------------------------------------
+/* MAIN CONTENT */
+.hero {
+  font-family: 'Source Sans Pro Bold', sans-serif;
+  text-align: right;
+  font-size: 2rem;
+}
+.hero a:hover {
+  color: #eff4c1;
+}
 
-@import "atoms/core";
-@import "atoms/grid";
-@import "atoms/type";
-@import "atoms/buttons";
-@import "atoms/forms";
+/* Illustration */
+.elephant-holder-wrapper {
+  flex: 1;
+  display: flex;
+  position: relative;
+  flex-direction: column;
+}
+.elephant-holder.ascii {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
 
+@media screen and (min-width: 600px) {
+  .hide-desktop {
+    display: none;
+  }
+  html, body {
+    height: 100vh;
+    min-height: 600px;
+  }
+  body {
+    padding: 4rem;
+  }
+  .right-column, .bottom-row {
+    flex: 1;
+  }
+  .logo {
+    width: 100px;
+    height: 85px;
+    margin-bottom: 1rem;
+  }
+  .title {
+    line-height: 1.7rem;
+  }
+  .columns {
+    height: 100%;
+  }
+  .hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .illustration {
+    display: flex;
+  }
+  .elephant-holder {
+    flex: 1;
+  }
+  .right-column {
+    padding-left: 20px;
+    min-width: 200px;
+  }
+  .elephant-holder img {
+    display: none;
+  }
+  .elephant-holder.shadow {
+    background: url(/images/elephant-shadow.svg) no-repeat center center;
+    background-size: contain;
+  }
+  .elephant-holder.ascii {
+    background: url(/images/elephant-ascii.svg) no-repeat center center;
+    background-size: contain;
+    opacity: 0;
+  }
+  .illustration:hover .elephant-holder.ascii{
+    opacity: 1;
+  }
+}
 
-// Molecules
-// --------------------------------------------------------------------------
-
-@import "molecules/carousel";
-@import "molecules/panels";
-@import "molecules/technology";
-@import "molecules/introduction";
-@import "molecules/testimonials";
-@import "molecules/jobs";
-@import "molecules/blog";
-@import "molecules/contact";
-
-
-// Organims
-// --------------------------------------------------------------------------
-
-@import "organisms/header";
-@import "organisms/footer";
-@import "organisms/pages";
+@media screen and (max-width: 600px) {
+  .hide-mobile {
+    display: none;
+  }
+  .columns {
+    flex-direction: column;
+  }
+  .logo {
+    width: 80px;
+    height: 60px;
+    margin-bottom: 0.8rem;
+  }
+  .title {
+    line-height: 1.3rem;
+  }
+  .right-column {
+    flex-direction: column-reverse;
+  }
+  body {
+    text-align: center;
+    margin: 1rem;
+  }
+  .title h1, .title h2, .title p, .tagline p {
+    font-size: 1rem;
+  }
+  .hero p {
+    font-size: 1.2rem;
+  }
+  .tagline a {
+    text-decoration: none;
+  }
+  .tagline, .hero {
+    text-align: center;
+  }
+  .hero p {
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+  }
+  .illustration {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin: 0 1rem;
+  }
+  img#elephant-ascii {
+    height: 100%;
+    opacity: 0;
+  }
+}

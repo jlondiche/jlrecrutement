@@ -1,0 +1,5 @@
+_site
+.sass-cache
+.jekyll-metadata
+.ruby-gemset
+.DS_Store
