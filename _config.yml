@@ -11,7 +11,7 @@ markdown: kramdown
 port: 8000
 
 # Infos
-email: "jeanne.londiche@jlrecrutement.com"
+email: "jeanne@jlrecrutement.com"
 tel: "+33649356430"
 
 # Google Analytics
