@@ -1,0 +1,67 @@
+@import "variables";
+
+.d-flex {
+  display: flex;
+}
+
+.flex-row {
+  flex-direction: row;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.flex-grow-1 {
+  flex-grow: 1;
+}
+
+.justify-content-end {
+  justify-content: flex-end;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.align-items-start {
+  align-items: flex-start;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.h3 {
+  font-size: 1.3rem;
+}
+
+.list-icon {
+  height: 1.8em;
+}
+
+.bg-white {
+  background-color: $white;
+}
+
+.rounded {
+  border-radius: .25rem;
+}
+
+@media screen and (min-width: 600px) {
+  .flex-md-row {
+    flex-direction: row;
+  }
+
+  .flex-md-column {
+    flex-direction: column;
+  }
+
+  .align-items-md-center {
+    align-items: center;
+  }
+
+  .align-items-md-start {
+    align-items: flex-start;
+  }
+}
