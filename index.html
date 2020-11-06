@@ -1,108 +1,59 @@
 ---
+layout: default
+uri: /
+meta_description: JL Recrutement est un cabinet de recrutement indépendant IT spécialisé sur la technologie PHP.
 ---
 
-<html>
+<div class="column left-column">
+  {% include business-card.html %}
+  <div class="row bottom-row hero hide-mobile">
+    <div class="hero-holder">
+      <p>
+        Développeurs PHP, <br />
+        passez à l'étape d’après !
+      </p>
+      <p>
+        Consultez le
+        <a href="{{ site.data.routes.job_board }}" target="_blank">Job Board</a>
+        et <br />
+        <a href="{{ site.data.routes.linkedin }}" target="_blank">contactez-moi</a>.
+      </p>
+      <p>
+          Le <a href="{{ site.url }}{{ site.data.routes.burnout }}">burn-out</a> chez<br/>
+          les développeurs
+      </p>
+    </div>
+  </div>
+</div> <!-- left-column end -->
 
-<head>
-  <title>{{ site.title }}</title>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="description" content="JL Recrutement est un cabinet de recrutement indépendant IT spécialisé sur la technologie PHP.">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<div class="column right-column">
+  <div class="row top-row tagline">
+    <p>
+      <a href="{{ site.data.routes.open_source }}" target="_blank">
+        J’arrête le recrutement propriétaire, <br />
+        je passe à l’open source !
+      </a>
+    </p>
+  </div>
 
-  <link href="css/styles.css" rel="stylesheet">
-  <link rel="canonical" href="http://www.jlrecrutement.com/">
-  <link rel="shortcut icon" href="/favicon.png">
-</head>
-
-<body id="body">
-
-  <div class="columns">
-
-    <div class="column left-column">
-      <div class="row top-row title">
-        <img src="images/logo.svg" class="logo">
-        <h1>Jeanne Londiche</h1>
-        <h2>Indépendante spécialisée en recrutement PHP</h2>
+  <div class="row hide-desktop">
+    <div class="hero">
+      <p>
+        Développeurs PHP, <br />
+        passez à l'étape d’après !
+      </p>
+      <p>
+        Consultez le
+        <a href="{{ site.data.routes.job_board }}" target="_blank">Job Board</a>
+        et
+        <a href="{{ site.data.routes.linkedin }}" target="_blank">contactez-moi</a>.
+      </p>
         <p>
-          <a href="mailto:{{ site.email }}">
-            {{ site.email }}
-          </a>
-          —
-          <a href="tel:+{{ site.tel }}">T.&nbsp;06&nbsp;49&nbsp;35&nbsp;64&nbsp;30</a>
+            Le <a href="{{ site.url }}{{ site.data.routes.burnout }}">burn-out</a> chez<br/>
+            les développeurs
         </p>
-      </div>
+    </div>
+  </div>
 
-      <div class="row bottom-row hero hide-mobile">
-        <div class="hero-holder">
-          <p>
-            Développeurs PHP, <br />
-            passez à l'étape d’après !
-          </p>
-          <p>
-            Consultez le
-            <a href="https://github.com/jlondiche/job-board-php" target="_blank">Job Board</a>
-            et <br />
-            <a href="https://www.linkedin.com/in/jlondiche/" target="_blank">contactez-moi</a>.
-          </p>
-        </div>
-      </div>
-    </div> <!-- left-column end -->
-
-    <div class="column right-column">
-      <div class="row top-row tagline">
-        <p>
-          <a href="https://medium.com/@jlondiche/jarr%C3%AAte-le-recrutement-propri%C3%A9taire-je-d%C3%A9marre-l-open-source-6e33463aec9" target="_blank">
-            J’arrête le recrutement propriétaire, <br />
-            je passe à l’open source !
-          </a>
-        </p>
-      </div>
-
-      <div class="row hide-desktop">
-        <div class="hero">
-          <p>
-            Développeurs PHP, <br />
-            passez à l'étape d’après !
-          </p>
-          <p>
-            Consultez le
-            <a href="https://github.com/jlondiche/job-board-php" target="_blank">Job Board</a>
-            et
-            <a href="https://www.linkedin.com/in/jlondiche/" target="_blank">contactez-moi</a>.
-          </p>
-        </div>
-      </div>
-
-      <div class="row bottom-row illustration">
-        <div class="elephant-holder-wrapper">
-          <div class="elephant-holder shadow">
-            <img src="/images/elephant-shadow.svg">
-          </div>
-          <div class="elephant-holder ascii">
-            <img src="/images/elephant-ascii.svg" id="elephant-ascii">
-          </div>
-        </div>
-      </div>
-
-    </div> <!-- right-column end -->
-
-  </div> <!-- columns end -->
-
-</body>
-
-<script type="text/javascript" src="js/main.js"></script>
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', '{{ site.ga_id }}', 'auto');
-  ga('send', 'pageview');
-</script>
-
-</html>
-
-
+    {% include illustration.html %}
+</div> <!-- right-column end -->

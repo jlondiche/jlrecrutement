@@ -4,7 +4,7 @@ description: "JL Recrutement est un cabinet de recrutement indépendant IT spéc
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.jlrecrutement.com" # the base hostname & protocol for your site
 sass:
-    style: :compressed
+  style: :compressed
 
 # Build settings
 markdown: kramdown
