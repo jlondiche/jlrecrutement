@@ -1,4 +1,4 @@
 testimonies:
   - { title: 'CTO / Start-up', path: /burnout/temoignage-cto-startup.html }
-  - { title: 'EM / SSII', path: /burnout/temoignage-em-ssii.html }
-  - { title: 'Dev Back PHP', path: /burnout/temoignage-dev-back-php.html }
+#  - { title: 'EM / SSII', path: /burnout/temoignage-em-ssii.html }
+#  - { title: 'Dev Back PHP', path: /burnout/temoignage-dev-back-php.html }
