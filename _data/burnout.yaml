@@ -1,4 +1,4 @@
 testimonies:
-  - { title: 'Aude nous livre tout son parcous qui l'a mené au burn-out.', path: /burnout/temoignage-cto-startup.html }
+  - { title: 'Aude nous livre tout son parcours qui l\'a mené burn-out.', path: /burnout/temoignage-cto-startup.html }
 #  - { title: 'EM / SSII', path: /burnout/temoignage-em-ssii.html }
 #  - { title: 'Dev Back PHP', path: /burnout/temoignage-dev-back-php.html }
