@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="fr">
+
+<head>
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="description" content="{{ page.meta_description }}">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <link href="/css/styles.css" rel="stylesheet">
+    <link rel="canonical" href="{{ site.url }}{{ page.uri }}">
+    <link rel="shortcut icon" href="/favicon.png">
+</head>
+
+<body id="body">
+<div class="d-flex flex-column flex-md-row align-items-md-start">
+    {% include business-card.html %}
+    <div class="d-flex flex-row justify-content-end align-items-center flex-grow-1 hide-mobile">
+        <p class="h3 my-0">
+            <a href="{{ site.data.routes.open_source }}" target="_blank">
+                J’arrête le recrutement propriétaire, <br/>
+                je passe à l’open source !
+            </a>
+        </p>
+    </div>
+</div>
+<div class="d-flex flex-column py-5 mx-sm-3 mx-md-4 mx-lg-5 mx-xl-6 px-sm-3 px-md-4 px-lg-5 px-xl-6 testimony-content">
+    {{ content }}
+</div>
+<div class="d-flex flex-column flex-md-row mb-4">
+    <img src="/images/elephant-shadow.svg" alt="Elephant" class="mx-4 ml-md-0">
+    <ul>
+        <li class="h5 my-2"><a href="{{ site.data.routes.burnout }}">Tous les témoignages</a></li>
+        <li class="h5 my-2"><a href="{{ site.data.routes.slack }}" target="_blank">Groupe de parole</a></li>
+        <li class="h5 my-2">Pour échanger : <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+    </ul>
+</div>
+<script type="text/javascript" src="/js/main.js"></script>
+{% include tags.html %}
+</body>
+</html>

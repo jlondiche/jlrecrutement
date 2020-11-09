@@ -1,0 +1,56 @@
+@import "variables";
+
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url("/assets/SourceSansPro-ExtraLight.ttf");
+}
+
+@font-face {
+  font-family: "Source Sans Pro Bold";
+  src: url("/assets/SourceSansPro-SemiBold.ttf");
+}
+
+html {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+  background-color: $matcha;
+}
+
+.columns {
+  display: flex;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+@media screen and (min-width: 600px) {
+  .hide-desktop {
+    display: none;
+  }
+  html, body {
+    height: 100vh;
+    min-height: 600px;
+  }
+  body {
+    padding: 4rem;
+  }
+  .columns {
+    height: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .hide-mobile {
+    display: none;
+  }
+  .columns {
+    flex-direction: column;
+  }
+  body {
+    margin: 1rem;
+  }
+}
