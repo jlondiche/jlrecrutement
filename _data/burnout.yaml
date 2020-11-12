@@ -1,4 +1,4 @@
 testimonies:
   - { title: 'Aude nous livre son burnout', path: /burnout/temoignage-cto-startup.html }
-  - { title: 'Raoul : de la licorne &agrave l &apos impossibilit&eacute de s &apos alimenter', path: /burnout/temoignage-burnout.html }
+  - { title: 'Raoul : de la licorne &agrave l\'impossibilit&eacute de s\'alimenter', path: /burnout/temoignage-burnout.html }
 #  - { title: 'Dev Back PHP', path: /burnout/temoignage-dev-back-php.html }
