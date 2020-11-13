@@ -9,7 +9,7 @@ uri: /burnout
     <div class="mb-4">
         {% include business-card.html %}
     </div>
-    <div class="d-flex flex-column justify-content-center flex-grow-1">
+    <div class="d-flex flex-column justify-content-center flex-grow-1 font-weight-light">
         {% for testimony in site.data.burnout.testimonies %}
         <div class="d-flex flex-row align-items-center mb-3">
             <img src="../images/elephant-shadow.svg" class="list-icon mr-4">
@@ -31,7 +31,7 @@ uri: /burnout
                 <img src="/images/slack.svg" alt="Slack" class="list-icon"/>
             </div>
         </a>
-        <p class="h3 my-0">
+        <p class="h3 my-0 font-weight-light">
             <a href="{{ site.data.routes.slack }}">
             Rejoignez le Slack<br/>
             pour parler de votre expérience.

@@ -1,0 +1,56 @@
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url("/assets/SourceSansPro-ExtraLight.ttf");
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url("/assets/SourceSansPro-ExtraLightItalic.ttf");
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url("/assets/SourceSansPro-Light.ttf");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url("/assets/SourceSansPro-LightItalic.ttf");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url("/assets/SourceSansPro-Regular.ttf");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url("/assets/SourceSansPro-Italic.ttf");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url("/assets/SourceSansPro-SemiBold.ttf");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url("/assets/SourceSansPro-SemiBoldItalic.ttf");
+  font-weight: 600;
+  font-style: italic;
+}
+
+html {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 300;
+}
