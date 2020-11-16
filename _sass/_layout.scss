@@ -1,21 +1,7 @@
 @import "variables";
 
-@font-face {
-  font-family: "Source Sans Pro";
-  src: url("/assets/SourceSansPro-ExtraLight.ttf");
-}
-
-@font-face {
-  font-family: "Source Sans Pro Bold";
-  src: url("/assets/SourceSansPro-SemiBold.ttf");
-}
-
-html {
-  font-family: 'Source Sans Pro', sans-serif;
-}
-
 body {
-  background-color: $matcha;
+  background-color: $mint;
 }
 
 .columns {

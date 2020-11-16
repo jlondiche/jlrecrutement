@@ -1,6 +1,9 @@
 $white: #fff;
 $matcha: #bfd2c8;
 $pear: #eff4c1;
+$lavender: #becee5;
+$apricot: #fcc97e;
+$mint: #9fd4d4;
 
 $grid-breakpoints: (
         xs: 0,
@@ -23,3 +26,11 @@ $spacers: map-merge((
         6: ($spacer * 6),
         7: ($spacer * 12),
 ), $spacers);
+
+$theme-colors: (
+        "pear": $pear,
+        "matcha": $matcha,
+        "lavender": $lavender,
+        "apricot": $apricot,
+        "mint": $mint,
+);
