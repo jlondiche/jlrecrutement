@@ -3,3 +3,4 @@ testimonies:
   - { title: 'Raoul, burnout et Licorne', path: /burnout/raoul.html }
   - { title: 'Les Out', path: /burnout/pierre.html }
   #- { title: 'Dev Back PHP', path: /burnout/paul.html }
+  - { title: 'Jacques', path: /burnout/jacques.html }
