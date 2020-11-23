@@ -2,4 +2,4 @@ testimonies:
   - { title: 'Aude nous livre son burnout', path: /burnout/temoignage-cto-startup.html }
   - { title: 'Raoul, burnout et Licorne', path: /burnout/raoul.html }
   - { title: 'Les Out', path: /burnout/pierre.html }
-  - { title: 'Dev Back PHP', path: /burnout/paul.html }
+  #- { title: 'Dev Back PHP', path: /burnout/paul.html }
